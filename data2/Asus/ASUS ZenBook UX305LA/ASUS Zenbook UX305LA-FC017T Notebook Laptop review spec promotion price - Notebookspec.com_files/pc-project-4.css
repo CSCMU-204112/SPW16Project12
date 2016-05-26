@@ -1,0 +1,242 @@
+/* CSS Document */
+/* ------------------------------------------------------------------------- */
+#bg_pc_4 { margin:0 auto 0; display:block; width:952px; }
+/* ------------------------------------------------------------------------- */
+.pc_4_cpu_bg { float:left; width:952px; height: auto; margin-bottom:20px;}
+
+.pc_4_cpu_box { float:left; width:952px; height: auto; margin-bottom:20px;}
+.pc_4_cpu_box2 { float:left; width:952px; height: auto; margin-top:50px;}
+.pc_4_cpu_box3 { float:left; width:100%; height: auto; margin-bottom:20px; margin-top:0px; position:relative; z-index:1;text-align: left;padding-left: 10px;}
+
+.headTop{text-align:left; font-size: 24px; font-weight: bold; color: #333; margin: 20px 0px 15px 0px;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.pc_4_menu_box1 { 
+	float:left; 
+	width:191px;
+	height:15px;
+	border:1px #e5e5e5 solid;
+	background-image: url(/image/pc4_icon_07.png);
+	background-position:right center;
+	background-repeat:no-repeat;
+	cursor:pointer;
+	padding:15px 15px 15px 15px;
+	font-size:12px;
+	font-weight:bold;
+	color:#333;
+	margin-top:-46px;
+	box-shadow: inset 0px 1px 0px rgba(255,255,255, .8), 0px 1px 3px rgba(0,0,0, .1); 
+	}
+.pc_4_menu_box1:hover { 
+	float:left; 
+	width:191px;
+	height:15px;
+	border:1px #e5e5e5 solid;
+	background-image:url(/image/pc4_icon_08.png);
+	background-position:right center;
+	background-repeat:no-repeat;
+	cursor:pointer;
+	padding:15px 15px 15px 15px;
+	font-size:12px;
+	font-weight:bold;
+	color:#fb8e25;
+	box-shadow: inset 0px 1px 0px rgba(255,255,255, .8), 0px 1px 3px rgba(0,0,0, .1); 
+	}
+/* ------------------------------------------------------------------------- */
+.pc_4_menu_box2 { 
+	float:left; 
+	width:191px;
+	height:15px;
+	border:1px #e5e5e5 solid;
+	background-image: url(/image/pc4_icon_03.png);
+	background-position:right center;
+	background-repeat:no-repeat;
+	cursor:pointer;
+	padding:15px 15px 15px 15px;
+	font-size:12px;
+	font-weight:bold;
+	color:#333;
+	margin-left:20px;
+	box-shadow: inset 0px 1px 0px rgba(255,255,255, .8), 0px 1px 3px rgba(0,0,0, .1); 
+	}
+.pc_4_menu_box2:hover { 
+	float:left; 
+	width:191px;
+	height:15px;
+	border:1px #e5e5e5 solid;
+	background-image:url(/image/pc4_icon_05.png);
+	background-position:right center;
+	background-repeat:no-repeat;
+	cursor:pointer;
+	padding:15px 15px 15px 15px;
+	font-size:12px;
+	font-weight:bold;
+	color:#fb8e25;
+	margin-left:20px;
+	box-shadow: inset 0px 1px 0px rgba(255,255,255, .8), 0px 1px 3px rgba(0,0,0, .1); 
+	}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.pc_4_table_bg {width:auto; height:auto;   border-left:1px #e6e6e6 solid;display:inline-block; text-align:right;font-size:12px;}
+/* ------------------------------------------------------------------------- */
+.pc_4_table_top_bg { float:left; width:auto; height:30px;line-height: 20px; background-color:#ebebeb; border-top:1px #e6e6e6 solid; background-image:url(/image/pc4_icon_01.jpg); background-repeat:repeat-x;}
+/* ------------------------------------------------------------------------- */
+.pc_4_table_list_bg1.odd   { float:left; width:auto; height: auto; background-color:#FFF;clear:both;}
+.pc_4_table_list_bg1.even { float:left; width:auto; height: auto; background-color:#f7f7f7;clear:both;}
+.pc_4_table_list_bg1:last-child {border-bottom:1px #e6e6e6 solid;}
+.pc_4_table_list_bg1:hover span{ border-bottom: 1px dotted #000; }
+.pc_4_table_list_bg1 div:nth-child(3){font-weight:bold;}
+/* ------------------------------------------------------------------------- */
+
+.pc_4_table_list_bg2:hover { float:left; width:952px; height: auto; cursor:pointer; background-color:#e2e2e2; background-image: url(/image/pc4_icon_09_2.png); background-repeat: no-repeat;background-position: 0px 0px;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.pc_4_table_list_text_topic_1 { float:left; width:26px; height: 20px; color:#333; text-align:center; font-size:13px; font-weight:bold; border-right:1px #e6e6e6 solid; padding:4px 5px 1px 5px;}
+.pc_4_table_list_text_topic_2 { float:left; width:100px; height: 20px; color:#333; font-size:13px; font-weight:bold; border-right:1px #e6e6e6 solid; padding:5px 5px 0px 5px;}
+.pc_4_table_list_text_topic_3 { float:left; width:169px; height: 20px; color:#333; font-size:13px; font-weight:bold; border-right:1px #e6e6e6 solid; padding:5px 5px 0px 5px;}
+
+.pc_4_table_list_text_1 { 
+float:left; width:26px; height: 20px; color:#333; text-align:center; border-right:1px #e6e6e6 solid; padding:4px 5px 1px 5px;
+background-image: url(/image/uncheck.png); background-repeat: no-repeat;background-position: 5px 5px;
+}
+.pc_4_table_list_text_1:hover{ 
+background-image: url(/image/pc4_icon_09_2.png); background-repeat: no-repeat;background-position: 0px 0px;
+}
+.pc_4_table_list_text_2 { float:left; width:100px; height: 20px; color:#333; border-right:1px #e6e6e6 solid; padding:5px 5px 0px 5px;}
+.pc_4_table_list_text_3 { float:left; width:169px; height: 20px; color:#333; border-right:1px #e6e6e6 solid; padding:5px 5px 0px 5px;}
+/* ------------------------------------------------------------------------- */
+.pc_4_table_list_clike { 
+	float:left; 
+	width:19px;
+	height:17px;
+	margin-left:3px;
+	}
+.pc_4_table_list_clike:hover { 
+	float:left; 
+	width:19px;
+	height:17px;
+	background-image:url(/image/pc4_icon_09.png);
+	margin-left:3px;
+	border:0px;
+	}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+#nav {
+    display:inline;
+    text-align:left;
+    list-style-type:none;
+}
+#nav > li {
+    float:left;
+	z-index:1;
+	margin-left:12px;
+}
+#nav > li > a {
+    float:left;
+	position: relative; 
+	width:185px;
+	height:15px;
+	border:1px solid #e5e5e5;
+	background-image: url(/image/pc4_icon_03.png);
+	background-position:right center;
+	background-repeat:no-repeat;
+	cursor:pointer;
+	padding:15px 15px 15px 15px;
+	font-size:14px;
+	font-weight:bold;
+	color:#333;
+	margin-top:-46px;
+	margin-left:-1px;
+	box-shadow: inset 0px 1px 0px rgba(255,255,255, .8), 0px 1px 3px rgba(0,0,0, .1);
+	z-index:1;
+}
+#nav > li > a:hover {
+    float:left; 
+	width:185px;
+	height:15px;
+	border:1px solid #e5e5e5;
+	background-image: url(/image/pc4_icon_05.png);
+	background-position:right center;
+	background-repeat:no-repeat;
+	cursor:pointer;
+	padding:15px 15px 15px 15px;
+	font-size:14px;
+	font-weight:bold;
+	color:#fb8e25;
+	margin-top:-46px;
+	margin-left:-1px;
+	box-shadow: inset 1px 1px 1px rgba(255,255,255, .8), 0px 1px 6px rgba(0,0,0, .3);
+	z-index:1;
+}
+#nav > li.selected  > a {
+    background-color:#FFFFFF;
+    border-color:;
+    z-index:2;
+}
+#nav li div {
+    position:;
+}
+#nav li div div {
+    background-color:#FFFFFF;
+    border-top:1px solid #CCC;
+	border-bottom:1px solid #e5e5e5;
+	border-left:1px solid #e5e5e5;
+	border-right:1px solid #e5e5e5;
+    padding:15px 15px 15px 15px;
+    display:none;
+    margin:0px;
+    width:191px;
+	margin-left:-1px;
+	box-shadow: inset 0px 1px 0px rgba(255,255,255, .8), 0px 1px 3px rgba(0,0,0, .1);
+	position: absolute;
+	z-index:5;
+}
+.hideAttr{
+display:none;
+}
+.brandPic{
+float:left;
+text-align:center;
+width:266px;
+}
+
+
+.widthSet1
+{
+	width: 70px;
+}
+.widthSet2{
+	width: 120px;
+}
+.widthSet3{
+	width: 350px;
+}
+.widthSet4{
+	width: 200px;
+}
+.widthSet5{
+	width: 275px;
+}
+.widthSet6
+{
+	width: 90px;
+}
+.onboard{
+text-align:center;
+font-size:18px;
+padding-top:30px;
+}
+
+.showOnRowHover{
+float: left;
+margin-left: -41px;
+width: 40px;
+background-color: #FFF;
+opacity:0;
+border-right: 1px #e6e6e6 solid;
+text-align:center;
+}
+.pc_4_table_list_bg1:hover .showOnRowHover{
+visibility:visible;
+opacity:1;
+}

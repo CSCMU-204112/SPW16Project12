@@ -1,0 +1,1511 @@
+/* ------------------------------------------------------------------------- */
+.search3_page { float:left; width:972px; height:auto; margin:0px 0px 20px 0px;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3_link_bg { float:left; width:972px; height:auto; margin-bottom:20px;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3_top_bg { float:left; width:972px; height:auto; margin-bottom:20px; border-top:0px #efefef solid; border-bottom:1px #cccccc solid; margin-bottom:0px;}
+.search3_top_bg2 { float:left; width:966px; height:auto; margin-bottom:20px; border-top:0px #efefef solid; border-bottom:1px #cccccc solid; margin-bottom:0px;}
+
+.search3_top_logo { float:left; width:106px; height:70px; background-color:#ff6503;}
+.search3_top_input { float:left; width:200px; height:18px; border:1px #cdcdcd solid; color:#666; padding:2px 3px;}
+.search3_top_input_button { float:left; height:24px; color:#FFF; border:0px; padding:0px 15px; background-color:#ff6503; cursor:pointer;}
+.search3_top_input_button:hover {background-color:#000;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3_left_bg { float:left; width:250px; height:auto;  padding-top:15px;}
+
+.search3_left_box { float:left; width:250px; height:auto; margin-bottom:20px;}
+.search3_left_box1 { float:left; width:210px; height:auto; margin-bottom:20px;}
+.search3_left_box2 { float:left; width:250px; height:auto; margin-bottom:10px;}
+.search3_left_box3 { float:left; width:210px; height:auto; margin-bottom:20px; margin-top:5px;}
+.search3_left_box4 { float:left; width:210px; height:auto; margin-bottom:20px; margin-top:20px;}
+.search3_left_box5 { float:left; width:210px; height:auto; margin-bottom:20px; margin-top:10px;}
+.search3_left_box6 { float:left; width:210px; height:auto; margin-bottom:30px; margin-top:10px;}
+
+.search3_left_topic_box { float:left; width:250px; height:auto; margin-bottom:10px;}
+.search3_left_topic_box2 { float:left; width:210px; height:auto;}
+.search3_left_detail_box { float:left; width:250px; height:auto;}
+.search3_4_left_detail_box { display:block; width:200px; height:auto; margin:0 auto 0;}
+.search3_4_left_detail_box2 { float:left; width:230px; height:auto; margin-left:22px;}
+/* ------------------------------------------------------------------------- */
+.search3_left_button_component {
+	float:left;
+	width:210px;
+	height:16px;
+	margin-bottom:10px;
+	font-family: Tahoma, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight:bold;
+	color: #666666;
+	padding: 6px 10px;
+	cursor:pointer;
+	background: -moz-linear-gradient(
+		top,
+		#ffffff 0%,
+		#ebebeb);
+	background: -webkit-gradient(
+		linear, left top, left bottom, 
+		from(#ffffff),
+		to(#ebebeb));
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 0px solid #003366;
+	-moz-box-shadow:
+		0px 0px 5px rgba(000,000,000,0.2),
+		inset 0px 0px 0px rgba(255,255,255,0);
+	-webkit-box-shadow:
+		0px 0px 5px rgba(000,000,000,0.2),
+		inset 0px 0px 0px rgba(255,255,255,0);
+	box-shadow:
+		0px 0px 5px rgba(000,000,000,0.2),
+		inset 0px 0px 0px rgba(255,255,255,0);
+	text-shadow:
+		0px 0px 0px rgba(000,000,000,0),
+		0px 0px 0px rgba(255,255,255,0);
+}
+.search3_left_button_component:hover {
+	color: #000000;
+}
+
+/* ------------------------------------------------------------------------- */
+.search3_left_number { float:left; width:22px; height:22px; background-color:#ff6503; color:#FFF; font-size:16px; font-weight:600; border-radius:99px; text-align:center;}
+.search3_4_left_number { float:left; width:19px; height:19px; background-color:#ff6503; color:#FFF; font-size:14px; font-weight:500; border-radius:99px; text-align:center; margin-top:-1px;}
+.search3_4_left_number1 { float:left; width:19px; height:19px; background-color:#ff6503; color:#FFF; font-size:14px; font-weight:500; border-radius:99px; text-align:center;}
+.search3_4_left_number2 { float:left; width:19px; height:19px; background-color:#ff6503; color:#FFF; font-size:14px; font-weight:500; border-radius:99px; text-align:center; margin-top:3px;}
+.search3_4_left_number3 { float:left; width:19px; height:19px; background-color:#ff6503; color:#FFF; font-size:14px; font-weight:500; border-radius:99px; text-align:center; margin-right:3px; margin-top:2px;}
+.search3_left_device_pic_box { display:block; width:60px; height:auto; margin:0 auto 0;}
+.search3_left_device_pic { float:left; width:38px; height:38px; background-color:#CCC; }
+.search3_left_device_pic_com { float:left; width:112px; height:38px; background-color:#CCC; }
+.search3_4_left_device_pic { float:left; width:38px; height:38px; background-color:#FFF; margin:0px 10px 10px 0px; }
+
+.search3_left_input { float:left; width:240px; height:auto; color:#666; padding:2px; }
+.search3_4_left_input { float:left; width:180px; height:auto; color:#666; padding:2px; }
+
+.search3_5_left_input { float:left; width:200px; height:auto; color:#666; padding:2px; }
+.search3_6_left_input { float:left; width:165px; height:auto; color:#666; padding:2px; }
+
+.search3_left_brand_box { float:left; width:112px; height:auto;}
+.search3_left_brand_pic { float:left; width:45px; height:45px; background-color:#CCC; }
+
+.search3_left_cpu_pic { float:left; width:45px; height:45px; background-color:#CCC; }
+
+.search3_left_button { display:block; width:86px; height:25px; color:#FFF; border:0px; font-size:20px; background-color:#ff6503; cursor:pointer; margin:0 auto 0;}
+.search3_left_button:hover {background-color:#000;}
+
+.search3_left_key_bg { float:left; width:250px; height:auto; border-top:1px #eaeaea solid; padding-top:10px;}
+.search3_left_key_number { float:left; width:7px; height:18px; background-color:#ff6503; margin-top:2px;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3_right_bg { float:left; width:718px; height:auto; border-left:1px #CCC solid; padding-left:3px;}
+
+.search3_right_compare_bg { float:left; width:718px; height:30px; background-color:#eaeaea; margin-bottom:5px;}
+
+.search3_right_compare_button { float:left; width:auto; height:30px; color:#FFF; padding:0px 15px; border:0px; font-size:18px; background-color:#ff6503; cursor:pointer;}
+.search3_right_compare_button:hover {background-color:#000;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3_goods_bg { float:left; width:718px; height:auto;}
+
+.search3_goods_box { 
+	float:left; 
+	width:207px; 
+	height:420px; 
+	border-left:1px #FFF solid;
+	border-right:1px #CCC solid;
+	border-top:1px #FFF solid;
+	border-bottom:1px #CCC solid; 
+	padding:10px 15px 10px 15px;
+	}
+.search3_4_goods_box { 
+	float:left; 
+	width:207px; 
+	height:420px; 
+	border-left:1px #FFF solid;
+	border-right:1px #FFF solid;
+	border-top:1px #FFF solid;
+	border-bottom:1px #CCC solid; 
+	padding:10px 15px 10px 15px;
+	}
+.search3_4_tablet_box { 
+	float:left; 
+	width:207px; 
+	height:375px; 
+	border-left:1px #FFF solid;
+	border-right:1px #FFF solid;
+	border-top:1px #FFF solid;
+	border-bottom:1px #CCC solid; 
+	padding:10px 15px 10px 15px;
+	}
+.search3_goods_box_sel { 
+	float:left; 
+	width:207px; 
+	height:420px; 
+	border:1px #666 solid; 
+	padding:10px 15px 10px 15px;
+	}
+.search3_goods_hp_box { float:left; width:207px; height:auto; margin-bottom:10px;}
+.search3_goods_hp_center_box { float:left; width:207px; height:50px; margin-bottom:10px; text-align:center;}
+.search3_goods_hp_footer_box { float:left; width:207px; height:auto;}
+
+.search3_goods_hp_pic { float:left; width:157px; height:115px; background-color:#CCC; }
+
+.search3_goods_score_box { float:left; width:207px; height:26px; margin-bottom:5px;}
+
+.search3_goods_hp_per_bg { float:left; width:207px; height:auto; margin-bottom:5px;}
+.search3_goods_hp_per_footer_bg { float:left; width:207px; height:auto; margin-bottom:5px;}
+
+.search3_goods_hp_per_text_bg { float:left; width:80px; height:auto;}
+.search3_goods_hp_per_text_percent_bg { float:left; width:38px; height:auto;}
+.search3_goods_hp_per_graph_bg { float:left; width:80px; height:11px; margin-top:2px;}
+
+.search3_graph_1 { float:left; height:11px; background-color:#ff9995;}
+.search3_graph_2 { float:left; height:11px; background-color:#cefd9d;}
+.search3_graph_3 { float:left; height:11px; background-color:#ffff67;}
+.search3_graph_4 { float:left; height:11px; background-color:#99ffff;}
+.search3_graph_5 { float:left; height:11px; background-color:#cc99fe;}
+
+.search3_top_pay_text_button {width:auto; height:auto; margin-bottom:5px;}
+.search3_top_pay_button { height:24px; color:#FFF; border:0px; padding:0px 10px; background-color:#ff6503; cursor:pointer;}
+.search3_top_pay_button:hover {background-color:#000;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3_pagination_search {
+	font: 14px/24px sans-serif;
+	width:700px;
+	height:30px;
+}
+.search3_page_search {
+    display: inline-block;
+    padding: 0px 9px;
+    margin-right: 4px;
+    border-radius: 3px;
+    background: #e9e9e9;
+    box-shadow: inset 0px 1px 0px rgba(255,255,255, .4), 0px 1px 3px rgba(0,0,0, .4);
+    font-size:12px;
+    text-shadow: 0px 1px 0px rgba(255,255,255, 1);
+}
+
+.search3_page_search:hover, .search3_page_search.gradient3:hover {
+    background: #fefefe;
+    background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FEFEFE), to(#f0f0f0));
+    background: -moz-linear-gradient(0% 0% 270deg,#FEFEFE, #f0f0f0);
+	color: #ff5300;
+	border-bottom:solid 1px #c0c0c0;
+}
+
+.search3_page_search.active3 {
+    border: none;
+    background: #616161;
+    box-shadow: inset 0px 1px 6px rgba(255,255,255, .5), 0px 1px 3px rgba(0,0,0, .4);
+    color: #f0f0f0;
+    text-shadow: 0px 0px 3px rgba(0,0,0, .5);
+}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3_hybride_left_box { float:left; width:250px; height:auto; border-bottom:1px #CCC solid; padding:3px 0px; margin-bottom:20px;}
+.search3_hybride_left_box2 { float:left; width:250px; height:auto; padding:20px 0px; border-right:1px #CCC solid;}
+.search3_hybride_left_box3 { float:left; width:250px; height:auto; border-bottom:1px #CCC solid; padding:3px 0px 0px 0px; margin-bottom:20px;}
+.search3_hybride_left_box3_edit { float:left; width:250px; height:75px; border-bottom:1px #CCC solid; margin-bottom:20px;}
+.search3_hybride_left_box4 { float:left; width:215px; height:auto; border-bottom:1px #CCC solid; margin-bottom:20px;}
+.search3_hybride_left_box4_noline { float:left; width:210px; height:auto; margin-bottom:20px;}
+.search3_hybride_left_pic_box { float:left; width:38px; height:38px; background-color:#CCC; }
+.search3_hybride_left_text { float:left; width:auto; height:auto; margin-left:10px; margin-top:6px;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3_tablet_box { float:left; width:207px; height: auto; margin-bottom:6px;}
+.search3_icon_camera { float:left; width:25px; height:18px; }
+.search3_icon_camera_text { float:left; width:auto; height:auto; margin-left:5px; margin-top:6px;}
+.search3_icon_box1 { float:left; width:auto; height:20px; }
+.search3_icon_box2 { float:left; width:auto; height:20px; margin-right:4px; }
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3_all_brand_topic_box { float:left; width:50px; height:25px; background-color:#CCC; }
+.search3_all_touch_pic_box { float:left; width:30px; height:30px; background-color:#CCC; }
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+
+.map1-container {
+	position:relative;	/* Forces map to be relative to the element, not the page */
+	cursor:help;
+	cursor:pointer;		/* Makes you cursor have the help symbol */
+}
+
+.map1 {
+	display:block;
+	position:absolute;
+	width:70px;
+	padding:5px 8px;
+	left:-100px;
+	bottom:-20px;
+	/* map Style */
+	color:#fff;
+	background:#333;
+	text-align:center;
+	/* map Style */
+	opacity:0;
+	box-shadow:0px 0px 3px rgba(0, 0, 0, 0.3);
+	-webkit-transition:all 0.2s ease-in-out;
+	-moz-transition:all 0.2s ease-in-out;
+	-0-transition:all 0.2s ease-in-out;
+	-ms-transition:all 0.2s ease-in-out;
+	transition:all 0.2s ease-in-out;
+	-webkit-transform:scale(0);
+	-moz-transform:scale(0);
+	-o-transform:scale(0);
+	-ms-transform:scale(0);
+	transform:scale(0);
+	/* reset map, to not use container styling */
+	font-size:11px;
+	font-style:normal;
+}
+
+.map1:before, .map1:after{
+	content:'';
+	position:absolute;
+	bottom:-10px;
+	left:50%;
+	border-left:5px solid transparent;
+	border-right:5px solid transparent;
+}
+.map1:after{
+	bottom:-7px;
+	margin-left:-22px;
+	border-top:7px solid rgba(34,34,34,0.9);
+}
+
+.map1-container:hover .map1, a:hover .map1 {
+	/* Makes the map slightly transparent, Lets the barely see though it */
+	opacity:1;
+	/* Changes the scale from 0 to 1 - This is what animtes our map! */
+	-webkit-transform:scale(1);
+	-moz-transform:scale(1);
+	-o-transform:scale(1);
+	-ms-transform:scale(1);
+	transform:scale(1);
+}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3_component_left { float:left; width:250px; height:auto;  padding-top:5px;}
+.search3_component_left2 { float:left; width:250px; height:auto;  padding-top:5px; border-right:1px #CCC solid;}
+.search3_component_left3 { float:left; width:215px; height:auto; }
+.search3_component_left_text { float:left; width:auto; height:auto; margin-left:10px;}
+
+.search3_component_left_bg { 
+	float:left; 
+	width:238px; 
+	height: auto; 
+	border-right:1px #CCC solid;
+	}
+.search3_component_center_bg { 
+	float:left; 
+	width:238px; 
+	height: auto; 
+	border-right:1px #e9e9e9 solid;
+	}
+.search3_component_right_bg { 
+	float:left; 
+	width:238px; 
+	height: auto; 
+	border-right:1px #FFF solid;
+	}
+/* ------------------------------------------------------------------------- */
+.search3_component_left_edit_bg { 
+	float:left; 
+	width:238px; 
+	height: auto;
+	padding:10px 0px;
+	text-align:center;
+	}
+.search3_component_center_edit_bg { 
+	float:left; 
+	width:238px; 
+	height: auto;
+	padding:10px 0px;
+	text-align:center;
+	}
+.search3_component_left_detail_rate_edit_spec_button { 
+	width:70px; 
+	height:auto; 
+	background-color:#ff6600;
+	margin:0 auto 0;
+	text-align:right;
+	padding:3px 6px 5px 6px;
+	font-size:16px;
+	color:#FFF;
+	border-radius:5px;
+	text-align:center;
+	}
+.search3_component_left_detail_rate_edit_spec_button:hover { 
+	background-color:#000;
+	}
+/* ------------------------------------------------------------------------- */
+.search3_component_right { float:left; width:718px; height:auto; border-left:1px #CCC solid; }
+.search3_component_right2 { float:left; width:718px; height:auto;}
+.search3_component_right3 { float:left; width:718px; height:80px;}
+
+.search3_component_left_top_box { float:left; width:238px; height:55px; background-color:#ff6600;}
+.search3_component_center_top_box { float:left; width:238px; height:55px; background-color:#006599;}
+.search3_component_right_top_box { float:left; width:238px; height:55px; background-color:#336601;}
+.search3_component_right_top_box_edit { float:left; width:238px; height:35px; background-color:#ff0000; color:#FFF; text-align:center; font-size:24px; font-weight:bold; padding:10px 0px;}
+
+.search3_component_right_top_box_edit_button_bg { display:block; width:145px; margin:0 auto 0; padding-top:5px;}
+.search3_component_right_top_box_edit_button {float:left; width:auto; height:auto; background-color:#ff0000; color:#FFF; font-size:11px; font-weight:bold; padding:1px 6px; margin-right:5px;}
+.search3_component_right_top_box_edit_button:last-child {float:left; width:auto; height:auto; background-color:#ff0000; color:#FFF; font-size:11px; font-weight:bold; padding:1px 6px; margin-right:0px;}
+.search3_component_right_top_box_edit_button:hover {background-color:#000; color:#FFF;}
+
+.search3_component_left_top_text1 { float:left; width:85px; height:auto; padding:5px; text-align:right; color:#FFF; font-size:14px; margin-top:3px;}
+
+.search3_component_left_top_text1_edit { float:left; width:65px; height:auto; padding:0px 5px; text-align:right; color:#FFF; margin-top:3px;}
+
+.search3_component_left_top_text2 { float:left; width:120px; height:auto; padding:0px 5px; text-align:left; color:#FFF; font-size:38px; line-height:normal; margin-top: 1px;}
+
+.search3_component_left_top_text2_edit { float:left; width:150px; height:auto; padding:8px 5px; text-align:right; color:#FFF;}
+
+.search3_component_left_detail_box { float:left; width:228px; height:auto; border-bottom:1px #CCC solid; padding:5px;}
+.search3_component_left_detail_box_edit { float:left; width:228px; height:64px; border-bottom:1px #CCC solid; padding:5px;}
+.search3_component_left_detail_box_edit_right { float:left; width:228px; height:64px; border-bottom:1px #FFF solid; padding:5px; background-color:#e9e9e9;}
+.search3_component_left_detail_box_edit_right:last-child { float:left; width:228px; height:64px; border-bottom:1px #e9e9e9 solid; padding:5px; background-color:#e9e9e9;}
+
+.search3_component_left_detail_pic { float:left; width:48px; height:48px; margin-right:5px; background-color:#e1e1e1; }
+.search3_component_left_detail_pic_name { float:left; width:48px; height:auto; background-color:#f3f3f3; text-align:center; margin-top:3px; padding:0px 0px; font-size:10px; font-weight:bold; color:#333; }
+
+.search3_component_left_detail_text { float:left; width:120px; height:48px; margin-top:3px;}
+.search3_component_left_detail_text_edit { float:left; width:120px; height:62px; padding-top:3px;}
+.search3_component_left_detail_text_edit_right { float:left; width:120px; height:45px; padding-top:3px;}
+.search3_component_left_detail_right { float:right; width:50px; height:auto;}
+
+.search3_component_left_detail_rate { 
+	float:right; 
+	width:45px; 
+	height:15px; 
+	background-color:#ff6600; 
+	margin-right:-5px;
+	text-align:right;
+	padding:2px 5px 0px 5px;
+	font-size:11px;
+	color:#FFF;
+	}
+.search3_component_left_detail_rate_edit { 
+	float:right; 
+	width:38px; 
+	height:auto; 
+	background-color:#ff6600; 
+	margin-right:0px;
+	text-align:right;
+	padding:3px 6px 3px 6px;
+	font-size:12px;
+	color:#FFF;
+	border-radius:3px;
+	}
+.search3_component_left_detail_rate2 { 
+	float:right; 
+	width:45px; 
+	height:15px; 
+	background-color:#006599; 
+	margin-right:-5px;
+	text-align:right;
+	padding:2px 5px 0px 5px;
+	font-size:11px;
+	color:#FFF;
+	}
+.search3_component_left_detail_rate2_edit { 
+	float:right; 
+	width:38px; 
+	height:auto; 
+	background-color:#006599; 
+	margin-right:0px;
+	text-align:right;
+	padding:3px 6px 3px 6px;
+	font-size:12px;
+	color:#FFF;
+	border-radius:3px;
+	}
+.search3_component_left_detail_rate3 { 
+	float:right; 
+	width:45px; 
+	height:15px; 
+	background-color:#336601; 
+	margin-right:-5px;
+	text-align:right;
+	padding:2px 5px 0px 5px;
+	font-size:11px;
+	color:#FFF;
+	}
+.search3_component_left_detail_rate3_edit { 
+	float:right; 
+	width:38px; 
+	height:auto; 
+	background-color:#000000; 
+	margin-right:0px;
+	text-align:right;
+	padding:3px 6px 3px 6px;
+	font-size:12px;
+	color:#FFF;
+	border-radius:3px;
+	}
+.search3_component_left_detail_plus { float:right; width:15px; height:15px; margin-top:17px;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3_component2_se_bg { float:left; width:120px; height:auto;}
+.search3_component2_se_box { float:left; width:120px; height:50px; background-color:#ff6600; color:#FFF; padding:5px 0px;}
+.search3_component2_se_footer { float:left; width:120px; height:10px; text-align:center; border-bottom:1px #000 solid;}
+
+.search3_component2_se_box2 { float:left; width:120px; height:50px; background-color:#FFF; color:#333; padding:5px 0px;}
+.search3_component2_se_footer2 { float:left; width:120px; height:10px; text-align:center; border-bottom:1px #FFF solid;}
+
+.search3_component2_se_orange_box { float:left; width:10px; height:20px; background-color:#ff6600;}
+/* --------------- */
+.search3_component2_input_box1 { float:left; width:50px; height:auto; color:#333; margin-right:5px; text-align:right; margin-top:5px;}
+.search3_component2_input_box2 { float:left; width:90px; height:auto; color:#333; margin-right:5px; text-align:right; margin-top:5px;}
+.search3_component2_input_box3 { float:left; width:70px; height:auto; color:#333; margin-right:5px; text-align:right; margin-top:5px;}
+.search3_component2_input_box4 { float:left; width:50px; height:auto; color:#333; margin-right:5px; text-align:right; }
+/* --------------- */
+.search3_component2_input1 { float:left; width:230px; height:auto; color:#333; padding:1px; }
+.search3_component2_input2 { float:left; width:105px; height:auto; color:#333; padding:1px; }
+.search3_component2_input3 { float:left; width:133px; height:auto; color:#333; padding:1px; }
+.search3_component2_input4 { float:left; width:153px; height:auto; color:#333; padding:1px; }
+.search3_component2_input5 { float:left; width:225px; height:auto; color:#333; padding:1px; }
+.search3_component2_input6 { float:left; width:195px; height:auto; color:#333; padding:1px; }
+/* --------------- */
+.search3_component2_left_score_bg { float:left; width:238px; height: auto; margin-bottom:5px;}
+.search3_component2_left_score_bg_edit { float:left; width:238px; height:40px; margin-bottom:5px; text-align:center; color:#FFF;}
+.search3_component2_left_score_bg_edit_right { float:left; width:238px; height:40px; text-align:center; color:#FFF; background-color:#e9e9e9; padding-bottom:5px;}
+
+.search3_component2_left_score_box { float: right; width: auto; height: auto; background-color:#ff6600; padding:0px 5px 5px 5px;}
+.search3_component2_left_score_box2 { float: right; width: auto; height: auto; background-color:#006599; padding:0px 5px 5px 5px;}
+.search3_component2_left_score_box3 { float: right; width: auto; height: auto; background-color:#336601; padding:0px 5px 5px 5px;}
+.search3_component2_left_score_number { float:left; width: auto; height: auto; padding:0px 3px; border:1px #FFF solid; font-size:20px; color:#FFF;}
+
+
+.search3_component2_pic_CPU { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_03.jpg);}
+.search3_component2_pic_Mainboard { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_06.jpg);}
+.search3_component2_pic_VGA_Card { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_13.jpg);}
+.search3_component2_pic_RAM { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_17.jpg);}
+.search3_component2_pic_Hard_disk { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_20.jpg);}
+.search3_component2_pic_Case { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_23.jpg);}
+.search3_component2_pic_Power_supply { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_26.jpg);}
+.search3_component2_pic_Display { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_30.jpg);}
+.search3_component2_pic_Mouse { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_33.jpg);}
+.search3_component2_pic_Keyboard { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_35.jpg);}
+.search3_component2_pic_Webcam { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_37.jpg);}
+.search3_component2_pic_Speaker { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_39.jpg);}
+.search3_component2_pic_Printer { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_49.jpg);}
+.search3_component2_pic_UPS { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_51.jpg);}
+.search3_component2_pic_OS { float:left; width:48px; height:48px; margin-right:5px; background-image:url(../image/nbs-pc-poweruser_53.jpg);}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3-top-pc-spec { float:left; width:230px; height:auto; margin:10px 0px; padding:7px 5px;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3_pc_edit_right_bg { float:right; width:718px; height:auto; margin-top:40px;}
+/* ------------------------------------------------------------------------- */
+.search3_pc_edit_box { float:left; width:500px; height:auto; border:1px #CCC solid; margin-left:110px;}
+
+.search3_pc_edit_left_bg { float:left; width:250px; height:auto; border-right:1px #CCC solid;}
+.search3_pc_edit_left_top_bg { float:left; width:230px; height:22px; background-color:#ff0000; padding:5px 10px; color:#FFF; font-size:16px;}
+
+.search3_pc_edit_left_top_box { position:relative; float:left; width:230px; height:auto; padding:10px;}
+
+.search3_pc_edit_left_top_box_box { float:left; width:220px; height:auto;}
+.search3_pc_edit_left_top_box_box_center_point { width:55px; height:auto; margin:0 auto 0;}
+
+.search3_pc_edit_left_point { float:left; width:6px; height:6px; background-color:#ff0000; margin-right:5px; border-radius:10px;}
+.search3_pc_edit_left_point2 { float:left; width:6px; height:6px; background-color:#000; margin-right:5px; border-radius:10px;}
+/* ------------------------------------------------------------------------- */
+.search3_pc_edit_right_bg2 { float:left; width:249px; height:auto;}
+.search3_pc_edit_right_top_bg { float:left; width:229px; height:22px; background-color:#dedede; padding:5px 10px; color:#FFF; font-size:16px;}
+
+.search3_pc_edit_rightt_top_box { float:left; width:229px; height:auto; padding:10px;}
+.search3_pc_edit_rightt_top_box_bg { float:left; width:229px; height:auto; margin-top:3px;}
+
+.search3_pc_edit_rightt_from1 { float:left; width:110px; height:auto; color:#333; padding:1px; }
+.search3_pc_edit_rightt_from2 { float:left; width:158px; height:auto; color:#333; padding:1px; }
+.search3_pc_edit_rightt_from3 { float:left; width:158px; height:auto; color:#333; padding:1px; }
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.hover_no_line:hover { border-bottom:0px; opacity:0.6;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3_page_left { float:left; width:auto; height:auto;}
+.search3_page_right { float:right; width:auto; height:auto;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.search3_margin_1 { float:left; width:auto; height:auto; margin:1px;}
+.search3_margin_2 { float:left; width:auto; height:auto; margin:2px;}
+.search3_margin_3 { float:left; width:auto; height:auto; margin:3px;}
+.search3_margin_4 { float:left; width:auto; height:auto; margin:4px;}
+.search3_margin_5 { float:left; width:auto; height:auto; margin:5px;}
+.search3_margin_10 { float:left; width:auto; height:auto; margin:10px;}
+.search3_margin_15 { float:left; width:auto; height:auto; margin:15px;}
+.search3_margin_20 { float:left; width:auto; height:auto; margin:20px;}
+.search3_margin_23 { float:left; width:auto; height:auto; margin:23px;}
+.search3_margin_25 { float:left; width:auto; height:auto; margin:25px;}
+.search3_margin_30 { float:left; width:auto; height:auto; margin:30px;}
+
+.search3_margin_top1 { float:left; width:auto; height:auto; margin-top:1px;}
+.search3_margin_top2 { float:left; width:auto; height:auto; margin-top:2px;}
+.search3_margin_top3 { float:left; width:auto; height:auto; margin-top:3px;}
+.search3_margin_top4 { float:left; width:auto; height:auto; margin-top:4px;}
+.search3_margin_top5 { float:left; width:auto; height:auto; margin-top:5px;}
+.search3_margin_top10 { float:left; width:auto; height:auto; margin-top:10px;}
+.search3_margin_top15 { float:left; width:auto; height:auto; margin-top:15px;}
+.search3_margin_top20 { float:left; width:auto; height:auto; margin-top:20px;}
+.search3_margin_top23 { float:left; width:auto; height:auto; margin-top:23px;}
+.search3_margin_top25 { float:left; width:auto; height:auto; margin-top:25px;}
+.search3_margin_top30 { float:left; width:auto; height:auto; margin-top:30px;}
+
+.search3_margin_left1 { float:left; width:auto; height:auto; margin-left:1px;}
+.search3_margin_left2 { float:left; width:auto; height:auto; margin-left:2px;}
+.search3_margin_left3 { float:left; width:auto; height:auto; margin-left:3px;}
+.search3_margin_left4 { float:left; width:auto; height:auto; margin-left:4px;}
+.search3_margin_left5 { float:left; width:auto; height:auto; margin-left:5px;}
+.search3_margin_left10 { float:left; width:auto; height:auto; margin-left:10px;}
+.search3_margin_left12 { float:left; width:auto; height:auto; margin-left:12px;}
+.search3_margin_left13 { float:left; width:auto; height:auto; margin-left:13px;}
+.search3_margin_left15 { float:left; width:auto; height:auto; margin-left:14px;}
+.search3_margin_left15 { float:left; width:auto; height:auto; margin-left:15px;}
+.search3_margin_left20 { float:left; width:auto; height:auto; margin-left:20px;}
+.search3_margin_left25 { float:left; width:auto; height:auto; margin-left:25px;}
+.search3_margin_left30 { float:left; width:auto; height:auto; margin-left:30px;}
+.search3_margin_left100 { float:left; width:auto; height:auto; margin-left:100px;}
+
+.search3_margin_right1 { float:left; width:auto; height:auto; margin-right:1px;}
+.search3_margin_right2 { float:left; width:auto; height:auto; margin-right:2px;}
+.search3_margin_right3 { float:left; width:auto; height:auto; margin-right:3px;}
+.search3_margin_right4{ float:left; width:auto; height:auto; margin-right:4px;}
+.search3_margin_right5 { float:left; width:auto; height:auto; margin-right:5px;}
+.search3_margin_right10 { float:left; width:auto; height:auto; margin-right:10px;}
+.search3_margin_right15 { float:left; width:auto; height:auto; margin-right:15px;}
+.search3_margin_right20 { float:left; width:auto; height:auto; margin-right:20px;}
+.search3_margin_right25 { float:left; width:auto; height:auto; margin-right:25px;}
+.search3_margin_right30 { float:left; width:auto; height:auto; margin-right:30px;}
+
+.search3_margin_bottom1 { float:left; width:auto; height:auto; margin-bottom:1px;}
+.search3_margin_bottom2 { float:left; width:auto; height:auto; margin-bottom:2px;}
+.search3_margin_bottom3 { float:left; width:auto; height:auto; margin-bottom:3px;}
+.search3_margin_bottom4 { float:left; width:auto; height:auto; margin-bottom:4px;}
+.search3_margin_bottom5 { float:left; width:auto; height:auto; margin-bottom:5px;}
+.search3_margin_bottom10 { float:left; width:auto; height:auto; margin-bottom:10px;}
+.search3_margin_bottom15 { float:left; width:auto; height:auto; margin-bottom:15px;}
+.search3_margin_bottom20 { float:left; width:auto; height:auto; margin-bottom:20px;}
+.search3_margin_bottom25 { float:left; width:auto; height:auto; margin-bottom:25px;}
+.search3_margin_bottom30 { float:left; width:auto; height:auto; margin-bottom:30px;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.green_search_11 { color:#336601; font-size:11px;}
+.green_search_11 a:link, .green_search_11 a:visited {
+text-decoration: none;
+color:#336601;
+}
+.green_search_11 a:hover, .green_search_11 a:active {
+text-decoration: none;
+color:#000;
+}
+/* ------------------------------------------------------------------------- */
+.blue_search_11 { color:#006599; font-size:11px;}
+.blue_search_11 a:link, .blue_search_11 a:visited {
+text-decoration: none;
+color:#006599;
+}
+.blue_search_11 a:hover, .blue_search_11 a:active {
+text-decoration: none;
+color:#000;
+}
+.blue_search_11_bold { color:#006599; font-size:11px; font-weight:bold;}
+.blue_search_11_bold a:link, .blue_search_11_bold a:visited {
+text-decoration: none;
+color:#006599;
+}
+.blue_search_11_bold a:hover, .blue_search_11_bold a:active {
+text-decoration: none;
+color:#000;
+}
+.blue_search_12 { color:#006599; font-size:12px;}
+.blue_search_12 a:link, .blue_search_12 a:visited {
+text-decoration: none;
+color:#006599;
+}
+.blue_search_12 a:hover, .blue_search_12 a:active {
+text-decoration: none;
+color:#000;
+}
+.blue_search_12_bold { color:#006599; font-size:12px; font-weight:bold;}
+.blue_search_12_bold a:link, .blue_search_12_bold a:visited {
+text-decoration: none;
+color:#006599;
+}
+.blue_search_12_bold a:hover, .blue_search_12_bold a:active {
+text-decoration: none;
+color:#000;
+}
+/* ------------------------------------------------------------------------- */
+.orange_search_10 { color:#ff6503; font-size:10px;}
+.orange_search_10 a:link, .orange_search_10 a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_10 a:hover, .orange_search_10 a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_10_bold { color:#ff6503; font-size:10px; font-weight:bold;}
+.orange_search_10 a:link, .orange_search_10 a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_10 a:hover, .orange_search_10 a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_11 { color:#ff6503; font-size:11px;}
+.orange_search_11 a:link, .orange_search_11 a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_11 a:hover, .orange_search_11 a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_11_bold { color:#ff6503; font-size:11px; font-weight:bold;}
+.orange_search_11 a:link, .orange_search_11 a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_11 a:hover, .orange_search_11 a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_12 { color:#ff6503; font-size:12px;}
+.orange_search_12 a:link, .orange_search_12 a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_12 a:hover, .orange_search_12 a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_12_content { color:#ff6503; font-size:12px; line-height:20px;}
+.orange_search_12_content a:link, .orange_search_12_content a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_12_content a:hover, .orange_search_12_content a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_12_bold { color:#ff6503; font-size:12px; font-weight:bold;}
+.orange_search_12_bold a:link, .orange_search_12_bold a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_12_bold a:hover, .orange_search_12_bold a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_14 { color:#ff6503; font-size:14px;}
+.orange_search_14 a:link, .orange_search_14 a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_14 a:hover, .orange_search_14 a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_14_bold { color:#ff6503; font-size:14px; font-weight:bold;}
+.orange_search_14_bold a:link, .orange_search_14_bold a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_14_bold a:hover, .orange_search_14_bold a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_16 { color:#ff6503; font-size:16px;}
+.orange_search_16 a:link, .orange_search_16 a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_16 a:hover, .orange_search_16 a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_16_bold { color:#ff6503; font-size:16px; font-weight:bold;}
+.orange_search_16_bold a:link, .orange_search_16_bold a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_16_bold a:hover, .orange_search_16_bold a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_18 { color:#ff6503; font-size:18px;}
+.orange_search_18 a:link, .orange_search_18 a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_18 a:hover, .orange_search_18 a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_18_bold { color:#ff6503; font-size:18px; font-weight:bold;}
+.orange_search_18_bold a:link, .orange_search_18_bold a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_18_bold a:hover, .orange_search_18_bold a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_20 { color:#ff6503; font-size:20px;}
+.orange_search_20 a:link, .orange_search_20 a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_20 a:hover, .orange_search_20 a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_20_bold { color:#ff6503; font-size:20px; font-weight:bold;}
+.orange_search_20_bold a:link, .orange_search_20_bold a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_22 { color:#ff6503; font-size:22px;}
+.orange_search_22 a:link, .orange_search_22 a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_22 a:hover, .orange_search_22 a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_22_bold { color:#ff6503; font-size:22px; font-weight:bold;}
+.orange_search_22_bold a:link, .orange_search_22_bold a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_22_bold a:hover, .orange_search_22_bold a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_24 { color:#ff6503; font-size:24px;}
+.orange_search_24 a:link, .orange_search_24 a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_24 a:hover, .orange_search_24 a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_24_bold { color:#ff6503; font-size:24px; font-weight:bold;}
+.orange_search_24_bold a:link, .orange_search_24_bold a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_24_bold a:hover, .orange_search_24_bold a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_26 { color:#ff6503; font-size:26px;}
+.orange_search_26 a:link, .orange_search_26 a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_26 a:hover, .orange_search_26 a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_26_bold { color:#ff6503; font-size:26px; font-weight:bold;}
+.orange_search_26_bold a:link, .orange_search_26_bold a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_26_bold a:hover, .orange_search_26_bold a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_28 { color:#ff6503; font-size:28px;}
+.orange_search_28 a:link, .orange_search_28 a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_28 a:hover, .orange_search_28 a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_28_bold { color:#ff6503; font-size:28px; font-weight:bold;}
+.orange_search_28_bold a:link, .orange_search_28_bold a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_28_bold a:hover, .orange_search_28_bold a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_30 { color:#ff6503; font-size:30px;}
+.orange_search_30 a:link, .orange_search_30 a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_30 a:hover, .orange_search_30 a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+.orange_search_30_bold { color:#ff6503; font-size:30px; font-weight:bold;}
+.orange_search_30_bold a:link, .orange_search_30_bold a:visited {
+text-decoration: none;
+color:#ff6503;
+}
+.orange_search_30_bold a:hover, .orange_search_30_bold a:active {
+text-decoration: none;
+background-color:;
+color:#000;
+}
+/* ------------------------------------------------------------------------- */
+.map1-container {
+	position:relative;	/* Forces map to be relative to the element, not the page */
+	cursor:help;
+	cursor:pointer;		/* Makes you cursor have the help symbol */
+}
+
+.map1 {
+	display:block;
+	position:absolute;
+	width:70px;
+	padding:5px 8px;
+	left:-245px;
+	bottom:-18px;
+	/* map Style */
+	color:#fff;
+	background:#333;
+	text-align:center;
+	/* map Style */
+	opacity:0;
+	box-shadow:0px 0px 3px rgba(0, 0, 0, 0.3);
+	-webkit-transition:all 0.2s ease-in-out;
+	-moz-transition:all 0.2s ease-in-out;
+	-0-transition:all 0.2s ease-in-out;
+	-ms-transition:all 0.2s ease-in-out;
+	transition:all 0.2s ease-in-out;
+	-webkit-transform:scale(0);
+	-moz-transform:scale(0);
+	-o-transform:scale(0);
+	-ms-transform:scale(0);
+	transform:scale(0);
+	/* reset map, to not use container styling */
+	font-size:11px;
+	font-style:normal;
+}
+
+.map1:before, .map1:after{
+	content:'';
+	position:absolute;
+	bottom:-10px;
+	left:50%;
+	border-left:5px solid transparent;
+	border-right:5px solid transparent;
+}
+.map1:after{
+	bottom:-7px;
+	margin-left:-5px;
+	border-top:7px solid rgba(34,34,34,0.9);
+}
+
+.map1-container:hover .map1, a:hover .map1 {
+	/* Makes the map slightly transparent, Lets the barely see though it */
+	opacity:1;
+	/* Changes the scale from 0 to 1 - This is what animtes our map! */
+	-webkit-transform:scale(1);
+	-moz-transform:scale(1);
+	-o-transform:scale(1);
+	-ms-transform:scale(1);
+	transform:scale(1);
+}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.map2-container {
+	position:relative;	/* Forces map to be relative to the element, not the page */
+	cursor:help;
+	cursor:pointer;		/* Makes you cursor have the help symbol */
+}
+
+.map2 {
+	display:block;
+	position:absolute;
+	width:70px;
+	padding:5px 8px;
+	left:-195px;
+	bottom:-18px;
+	/* map Style */
+	color:#fff;
+	background:#333;
+	text-align:center;
+	/* map Style */
+	opacity:0;
+	box-shadow:0px 0px 3px rgba(0, 0, 0, 0.3);
+	-webkit-transition:all 0.2s ease-in-out;
+	-moz-transition:all 0.2s ease-in-out;
+	-0-transition:all 0.2s ease-in-out;
+	-ms-transition:all 0.2s ease-in-out;
+	transition:all 0.2s ease-in-out;
+	-webkit-transform:scale(0);
+	-moz-transform:scale(0);
+	-o-transform:scale(0);
+	-ms-transform:scale(0);
+	transform:scale(0);
+	/* reset map, to not use container styling */
+	font-size:11px;
+	font-style:normal;
+}
+
+.map2:before, .map2:after{
+	content:'';
+	position:absolute;
+	bottom:-10px;
+	left:50%;
+	border-left:5px solid transparent;
+	border-right:5px solid transparent;
+}
+.map2:after{
+	bottom:-7px;
+	margin-left:-8px;
+	border-top:7px solid rgba(34,34,34,0.9);
+}
+
+.map2-container:hover .map2, a:hover .map2 {
+	/* Makes the map slightly transparent, Lets the barely see though it */
+	opacity:1;
+	/* Changes the scale from 0 to 1 - This is what animtes our map! */
+	-webkit-transform:scale(1);
+	-moz-transform:scale(1);
+	-o-transform:scale(1);
+	-ms-transform:scale(1);
+	transform:scale(1);
+}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.map3-container {
+	position:relative;	/* Forces map to be relative to the element, not the page */
+	cursor:help;
+	cursor:pointer;		/* Makes you cursor have the help symbol */
+}
+
+.map3 {
+	display:block;
+	position:absolute;
+	width:70px;
+	padding:5px 8px;
+	left:-147px;
+	bottom:-18px;
+	/* map Style */
+	color:#fff;
+	background:#333;
+	text-align:center;
+	/* map Style */
+	opacity:0;
+	box-shadow:0px 0px 3px rgba(0, 0, 0, 0.3);
+	-webkit-transition:all 0.2s ease-in-out;
+	-moz-transition:all 0.2s ease-in-out;
+	-0-transition:all 0.2s ease-in-out;
+	-ms-transition:all 0.2s ease-in-out;
+	transition:all 0.2s ease-in-out;
+	-webkit-transform:scale(0);
+	-moz-transform:scale(0);
+	-o-transform:scale(0);
+	-ms-transform:scale(0);
+	transform:scale(0);
+	/* reset map, to not use container styling */
+	font-size:11px;
+	font-style:normal;
+}
+
+.map3:before, .map3:after{
+	content:'';
+	position:absolute;
+	bottom:-10px;
+	left:50%;
+	border-left:5px solid transparent;
+	border-right:5px solid transparent;
+}
+.map3:after{
+	bottom:-7px;
+	margin-left:-7px;
+	border-top:7px solid rgba(34,34,34,0.9);
+}
+
+.map3-container:hover .map3, a:hover .map3 {
+	/* Makes the map slightly transparent, Lets the barely see though it */
+	opacity:1;
+	/* Changes the scale from 0 to 1 - This is what animtes our map! */
+	-webkit-transform:scale(1);
+	-moz-transform:scale(1);
+	-o-transform:scale(1);
+	-ms-transform:scale(1);
+	transform:scale(1);
+}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.map4-container {
+	position:relative;	/* Forces map to be relative to the element, not the page */
+	cursor:help;
+	cursor:pointer;		/* Makes you cursor have the help symbol */
+}
+
+.map4 {
+	display:block;
+	position:absolute;
+	width:70px;
+	padding:5px 8px;
+	left:-100px;
+	bottom:-18px;
+	/* map Style */
+	color:#fff;
+	background:#333;
+	text-align:center;
+	/* map Style */
+	opacity:0;
+	box-shadow:0px 0px 3px rgba(0, 0, 0, 0.3);
+	-webkit-transition:all 0.2s ease-in-out;
+	-moz-transition:all 0.2s ease-in-out;
+	-0-transition:all 0.2s ease-in-out;
+	-ms-transition:all 0.2s ease-in-out;
+	transition:all 0.2s ease-in-out;
+	-webkit-transform:scale(0);
+	-moz-transform:scale(0);
+	-o-transform:scale(0);
+	-ms-transform:scale(0);
+	transform:scale(0);
+	/* reset map, to not use container styling */
+	font-size:11px;
+	font-style:normal;
+}
+
+.map4:before, .map4:after{
+	content:'';
+	position:absolute;
+	bottom:-10px;
+	left:50%;
+	border-left:5px solid transparent;
+	border-right:5px solid transparent;
+}
+.map4:after{
+	bottom:-7px;
+	margin-left:-7px;
+	border-top:7px solid rgba(34,34,34,0.9);
+}
+
+.map4-container:hover .map4, a:hover .map4 {
+	/* Makes the map slightly transparent, Lets the barely see though it */
+	opacity:1;
+	/* Changes the scale from 0 to 1 - This is what animtes our map! */
+	-webkit-transform:scale(1);
+	-moz-transform:scale(1);
+	-o-transform:scale(1);
+	-ms-transform:scale(1);
+	transform:scale(1);
+}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.map5-container {
+	position:relative;	/* Forces map to be relative to the element, not the page */
+	cursor:help;
+	cursor:pointer;		/* Makes you cursor have the help symbol */
+}
+
+.map5 {
+	display:block;
+	position:absolute;
+	width:70px;
+	padding:5px 8px;
+	left:-245px;
+	bottom:-66px;
+	/* map Style */
+	color:#fff;
+	background:#333;
+	text-align:center;
+	/* map Style */
+	opacity:0;
+	box-shadow:0px 0px 3px rgba(0, 0, 0, 0.3);
+	-webkit-transition:all 0.2s ease-in-out;
+	-moz-transition:all 0.2s ease-in-out;
+	-0-transition:all 0.2s ease-in-out;
+	-ms-transition:all 0.2s ease-in-out;
+	transition:all 0.2s ease-in-out;
+	-webkit-transform:scale(0);
+	-moz-transform:scale(0);
+	-o-transform:scale(0);
+	-ms-transform:scale(0);
+	transform:scale(0);
+	/* reset map, to not use container styling */
+	font-size:11px;
+	font-style:normal;
+}
+
+.map5:before, .map5:after{
+	content:'';
+	position:absolute;
+	bottom:-10px;
+	left:50%;
+	border-left:5px solid transparent;
+	border-right:5px solid transparent;
+}
+.map5:after{
+	bottom: 23px;
+	margin-left:-5px;
+	border-bottom:7px solid rgba(34,34,34,0.9);
+}
+
+.map5-container:hover .map5, a:hover .map5 {
+	/* Makes the map slightly transparent, Lets the barely see though it */
+	opacity:1;
+	/* Changes the scale from 0 to 1 - This is what animtes our map! */
+	-webkit-transform:scale(1);
+	-moz-transform:scale(1);
+	-o-transform:scale(1);
+	-ms-transform:scale(1);
+	transform:scale(1);
+}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.map6-container {
+	position:relative;	/* Forces map to be relative to the element, not the page */
+	cursor:help;
+	cursor:pointer;		/* Makes you cursor have the help symbol */
+}
+
+.map6 {
+	display:block;
+	position:absolute;
+	width:70px;
+	padding:5px 8px;
+	left:-195px;
+	bottom:-66px;
+	/* map Style */
+	color:#fff;
+	background:#333;
+	text-align:center;
+	/* map Style */
+	opacity:0;
+	box-shadow:0px 0px 3px rgba(0, 0, 0, 0.3);
+	-webkit-transition:all 0.2s ease-in-out;
+	-moz-transition:all 0.2s ease-in-out;
+	-0-transition:all 0.2s ease-in-out;
+	-ms-transition:all 0.2s ease-in-out;
+	transition:all 0.2s ease-in-out;
+	-webkit-transform:scale(0);
+	-moz-transform:scale(0);
+	-o-transform:scale(0);
+	-ms-transform:scale(0);
+	transform:scale(0);
+	/* reset map, to not use container styling */
+	font-size:11px;
+	font-style:normal;
+}
+
+.map6:before, .map6:after{
+	content:'';
+	position:absolute;
+	bottom:-10px;
+	left:50%;
+	border-left:5px solid transparent;
+	border-right:5px solid transparent;
+}
+.map6:after{
+	bottom: 23px;
+	margin-left:-6px;
+	border-bottom:7px solid rgba(34,34,34,0.9);
+}
+
+.map6-container:hover .map6, a:hover .map6 {
+	/* Makes the map slightly transparent, Lets the barely see though it */
+	opacity:1;
+	/* Changes the scale from 0 to 1 - This is what animtes our map! */
+	-webkit-transform:scale(1);
+	-moz-transform:scale(1);
+	-o-transform:scale(1);
+	-ms-transform:scale(1);
+	transform:scale(1);
+}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.map7-container {
+	position:relative;	/* Forces map to be relative to the element, not the page */
+	cursor:help;
+	cursor:pointer;		/* Makes you cursor have the help symbol */
+}
+
+.map7 {
+	display:block;
+	position:absolute;
+	width:70px;
+	padding:5px 8px;
+	left:-150px;
+	bottom:-66px;
+	/* map Style */
+	color:#fff;
+	background:#333;
+	text-align:center;
+	/* map Style */
+	opacity:0;
+	box-shadow:0px 0px 3px rgba(0, 0, 0, 0.3);
+	-webkit-transition:all 0.2s ease-in-out;
+	-moz-transition:all 0.2s ease-in-out;
+	-0-transition:all 0.2s ease-in-out;
+	-ms-transition:all 0.2s ease-in-out;
+	transition:all 0.2s ease-in-out;
+	-webkit-transform:scale(0);
+	-moz-transform:scale(0);
+	-o-transform:scale(0);
+	-ms-transform:scale(0);
+	transform:scale(0);
+	/* reset map, to not use container styling */
+	font-size:11px;
+	font-style:normal;
+}
+
+.map7:before, .map7:after{
+	content:'';
+	position:absolute;
+	bottom:-10px;
+	left:50%;
+	border-left:5px solid transparent;
+	border-right:5px solid transparent;
+}
+.map7:after{
+	bottom: 23px;
+	margin-left:-5px;
+	border-bottom:7px solid rgba(34,34,34,0.9);
+}
+
+.map7-container:hover .map7, a:hover .map7 {
+	/* Makes the map slightly transparent, Lets the barely see though it */
+	opacity:1;
+	/* Changes the scale from 0 to 1 - This is what animtes our map! */
+	-webkit-transform:scale(1);
+	-moz-transform:scale(1);
+	-o-transform:scale(1);
+	-ms-transform:scale(1);
+	transform:scale(1);
+}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.map8-container {
+	position:relative;	/* Forces map to be relative to the element, not the page */
+	cursor:help;
+	cursor:pointer;		/* Makes you cursor have the help symbol */
+}
+
+.map8 {
+	display:block;
+	position:absolute;
+	width:70px;
+	padding:5px 8px;
+	left:-101px;
+	bottom:-66px;
+	/* map Style */
+	color:#fff;
+	background:#333;
+	text-align:center;
+	/* map Style */
+	opacity:0;
+	box-shadow:0px 0px 3px rgba(0, 0, 0, 0.3);
+	-webkit-transition:all 0.2s ease-in-out;
+	-moz-transition:all 0.2s ease-in-out;
+	-0-transition:all 0.2s ease-in-out;
+	-ms-transition:all 0.2s ease-in-out;
+	transition:all 0.2s ease-in-out;
+	-webkit-transform:scale(0);
+	-moz-transform:scale(0);
+	-o-transform:scale(0);
+	-ms-transform:scale(0);
+	transform:scale(0);
+	/* reset map, to not use container styling */
+	font-size:11px;
+	font-style:normal;
+}
+
+.map8:before, .map8:after{
+	content:'';
+	position:absolute;
+	bottom:-10px;
+	left:50%;
+	border-left:5px solid transparent;
+	border-right:5px solid transparent;
+}
+.map8:after{
+	bottom: 23px;
+	margin-left:-5px;
+	border-bottom:7px solid rgba(34,34,34,0.9);
+}
+
+.map8-container:hover .map8, a:hover .map8 {
+	/* Makes the map slightly transparent, Lets the barely see though it */
+	opacity:1;
+	/* Changes the scale from 0 to 1 - This is what animtes our map! */
+	-webkit-transform:scale(1);
+	-moz-transform:scale(1);
+	-o-transform:scale(1);
+	-ms-transform:scale(1);
+	transform:scale(1);
+}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+#button_icon_search_1 {
+  background: #FFF url('../image/icon_new1.png');
+  background-position: 0 0;
+  height: 38px;
+  width: 38px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+}
+#button_icon_search_1:hover {
+  background-position: 0 114px;
+  border:0px;
+}
+#button_icon_search_2 {
+  background: #FFF url('../image/icon_new5.png');
+  background-position: 0 0;
+  height: 38px;
+  width: 38px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+}
+#button_icon_search_2:hover {
+  background-position: 0 114px;
+  border:0px;
+}
+#button_icon_search_3 {
+  background: #FFF url('../image/icon_new6.png');
+  background-position: 0 0;
+  height: 38px;
+  width: 38px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+}
+#button_icon_search_3:hover {
+  background-position: 0 114px;
+  border:0px;
+}
+
+#button_icon_search_4 {
+  background: #FFF url('../image/icon_new7.png');
+  background-position: 0 0;
+  height: 38px;
+  width: 38px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+}
+#button_icon_search_4:hover {
+  background-position: 0 114px;
+  border:0px;
+}
+#button_icon_search_5 {
+  background: #FFF url('../image/icon_new2.png');
+  background-position: 0 0;
+  height: 38px;
+  width: 38px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+}
+#button_icon_search_5:hover {
+  background-position: 0 114px;
+  border:0px;
+}
+#button_icon_search_6 {
+  background: #FFF url('../image/icon_new8.png');
+  background-position: 0 0;
+  height: 38px;
+  width: 38px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+}
+#button_icon_search_6:hover {
+  background-position: 0 114px;
+  border:0px;
+}
+#button_icon_search_7 {
+  background: #FFF url('../image/icon_new9.png');
+  background-position: 0 0;
+  height: 38px;
+  width: 38px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+}
+#button_icon_search_7:hover {
+  background-position: 0 114px;
+  border:0px;
+}
+#button_icon_search_8 {
+  background: #FFF url('../image/icon_new3.png');
+  background-position: 0 0;
+  height: 38px;
+  width: 38px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+}
+#button_icon_search_8:hover {
+  background-position: 0 114px;
+  border:0px;
+}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */

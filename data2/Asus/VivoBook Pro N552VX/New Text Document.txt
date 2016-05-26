@@ -1,0 +1,13 @@
+CPUIntel Core i7-6700HQ (2.60 GHz, 6 MB L3 Cache, up to 3.50 GHz)ChipsetIntel Skylake U 1-chip seriesGraphic SystemGraphic CardNVIDIA GeForce GTX 950M (4GB GDDR3)DisplaySize15.6 inch (3840 x 2160) Ultra HD 4KTouch Screen
+Main MemoryMemory 4 GB DDR4	(Upgrade   ) Hard Disk DriveHard Disk1 TB 7200 RPM + 128 GB SSDOptical Disc DriveDriveDVD Super MultiWeb CameraDetailsHD Web CameraPort & InterfaceUSB 2.02USB 3.02USB 3.1
+USB 3.1 Type C
+Display Port  (mini)
+D-Sub/VGA
+Thunderbolt
+HDMI
+Card ReaderYesExpress Slot
+Finger Print
+ConnectionWireless Lan802.11 b/g/nBluetooth
+LAN
+SIM (3G)
+BatteryType6 Cells

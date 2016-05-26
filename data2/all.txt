@@ -1,0 +1,10 @@
+asus
+Asus VivoBook E403SA
+Asus Zenbook UX305
+Asus Chromebook C202
+
+dell
+Dell XPS 13
+Dell Chromebook 13
+Alienware 17
+

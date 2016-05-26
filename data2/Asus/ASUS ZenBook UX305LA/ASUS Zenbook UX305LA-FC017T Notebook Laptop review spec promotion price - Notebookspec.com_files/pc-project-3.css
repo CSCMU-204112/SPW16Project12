@@ -1,0 +1,113 @@
+/* CSS Document */
+/* ------------------------------------------------------------------------- */
+#bg_pc_3 { margin:0 auto 0; display:block; width:952px; }
+/* ------------------------------------------------------------------------- */
+.pc_3_summary_bg { float:left; width:912px; height: auto; margin-bottom:20px; margin-top:10px; padding:20px; border:1px #dcdddf dashed;}
+/* ------------------ */
+.pc_3_summary_left_bg { float:left; width:170px; height: auto;}
+.pc_3_summary_left_top_box { float:left; width:170px; height: auto; margin-bottom:40px;}
+.pc_3_summary_left_top_text { float:left; width:170px; height: auto;}
+.pc_3_summary_left_top_box_number { float:left; padding:5px; text-align:center; background-color:#aaaaaa; margin:10px 0px 15px 0px;}
+/* ------------------ */
+.pc_3_summary_left_icon_bg { float:left; width:170px; height: auto;}
+.pc_3_summary_left_icon_box {
+	float:left;  
+	padding:6px 10px 6px 10px; 
+	width:70px;
+	background-color:#f1f1f1;
+	font-size:12px;
+	font-weight:bold;
+	border:1px #CCC solid;
+	margin-top:10px;
+	border-radius:5px;
+	cursor:pointer; 
+	box-shadow: inset 0px 1px 0px rgba(255,255,255, .8), 0px 1px 3px rgba(0,0,0, .1); 
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FEFEFE), to(#f0f0f0));
+	background: -moz-linear-gradient(0% 0% 270deg,#000, #f0f0f0);
+}
+.pc_3_summary_left_icon_pic { float:left; width:12px; height:12px; margin-right:8px; margin-top:2px;}
+/* ------------------ */
+/* ------------------ */
+/* ------------------ */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.pc_3_summary_right_bg { position:relative; float: right; width:720px; height:720px; background-color:#FFF;}
+/* ------------------ */
+.pc_3_summary_right_center_box { position: absolute; width:240px; height:auto; margin:250px 0px 0px 240px;}
+.pc_3_summary_right_center_pic { float:left; width:240px; height:192px; margin-bottom:5px;}
+.pc_3_summary_right_center_text { float:left; width:240px; height:auto;}
+/* ------------------ */
+/* ------------------ */
+.pc_3_summary_right_box_1 { position: absolute; width:125px; height:auto; margin:130px 0px 0px 40px;}
+.pc_3_summary_right_box_2 { position: absolute; width:125px; height:auto; margin:30px 0px 0px 295px;}
+.pc_3_summary_right_box_3 { position: absolute; width:125px; height:auto; margin:130px 0px 0px 560px;}
+.pc_3_summary_right_box_4 { position: absolute; width:125px; height:auto; margin:420px 0px 0px 560px;}
+.pc_3_summary_right_box_5 { position: absolute; width:125px; height:auto; margin:525px 0px 0px 295px;}
+.pc_3_summary_right_box_6 { position: absolute; width:125px; height:auto; margin:420px 0px 0px 40px;}
+
+.pc_3_summary_right_center_box_line { position:absolute; width:344px; height:317px; background-image:url(../image/pc3_bg_summary_2.png); background-position:center center; background-repeat:no-repeat; margin:188px 0px 0px 188px;}
+/* ------------------ */
+/* ------------------ */
+.pc_3_summary_right_pic { float:left; width:125px; height:100px; margin-bottom:5px;}
+.pc_3_summary_right_text { float:left; width:250px; height: auto;}
+/* ------------------ */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.pc_3_specification_bg { float:left; width:912px; height:auto; padding:20px; margin-bottom:20px; background-image:url(../image/pc3_bg.jpg); background-repeat:repeat-x; background-color:#FFF;}
+/* ------------------------------------------------------------------------- */
+.pc_3_specification_box { float:left; width:912px; height:auto; margin-bottom:20px;}
+/* ------------------------------------------------------------------------- */
+.pc_3_specification_pic_box { float:left; width:165px; height:auto;}
+.pc_3_specification_pic { float:left; width:165px; height:120px; margin-bottom:5px;}
+.pc_3_specification_text { float:left; width:165px; height:auto; margin-bottom:5px;}
+/* ------------------------------------------------------------------------- */
+.pc_3_specification_detail_bg { float:right; width:735px; height:auto;}
+.pc_3_specification_detail_box { float:left; width:735px; height:auto; margin-bottom:5px;}
+
+.pc_3_specification_detail_text_left_box { float:left; margin-right:30px;}
+.pc_3_specification_detail_text_right_box { float: right; margin-right:80px;}
+.pc_3_specification_detail_setting_box {
+	float:left;  
+	padding:4px 6px 4px 6px; 
+	background-color:#f1f1f1;
+	font-size:12px;
+	font-weight:bold;
+	border:1px #CCC solid;
+	margin-top:0px;
+	margin-right:5px;
+	border-radius:5px;
+	cursor:pointer; 
+	box-shadow: inset 0px 1px 0px rgba(255,255,255, .8), 0px 1px 3px rgba(0,0,0, .1); 
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#FEFEFE), to(#f0f0f0));
+	background: -moz-linear-gradient(0% 0% 270deg,#000, #f0f0f0);
+}
+.pc_3_specification_detail_setting_text { float:left; margin-top:3px; }
+/* ------------------------------------------------------------------------- */
+.pc_3_specification_list_left_box { float:left; width:120px; height: auto; border-right:1px #bfbfbf dotted;}
+
+.pc_3_specification_list_left_box1 { float:left; width:100px; height: auto;padding:3px 10px 3px 10px; text-align:right; color:#666; font-size:12px; background-color:#f7f7f7;}
+.pc_3_specification_list_left_box2 { float:left; width:100px; height: auto;padding:3px 10px 3px 10px; text-align:right; color:#666; font-size:12px; background-color:#FFF;}
+/* ------------------------------------------------------------------------- */
+.pc_3_specification_list_center1_box { float:left; width:145px; height: auto;}
+
+.pc_3_specification_list_center1_box1 { float:left; width:125px; height: auto;padding:3px 10px 3px 10px; text-align:left; color:#666; font-size:12px; background-color:#f7f7f7;}
+.pc_3_specification_list_center1_box2 { float:left; width:125px; height: auto;padding:3px 10px 3px 10px; text-align:left; color:#666; font-size:12px; background-color:#FFF;}
+/* ------------------------------------------------------------------------- */
+.pc_3_specification_list_right_box { float:right; width:150px; height: auto; padding:20px; border:2px #f2f2f2 solid; background-color:#fdfdfd;}
+.pc_3_specification_list_right_text1 { float:left; width:75px; height: auto; color:#333; font-size:14px; font-weight:bold;}
+.pc_3_specification_list_right_text2 { float:left; width:75px; height: auto; color:#fb8e25; font-size:14px; font-weight:bold;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */

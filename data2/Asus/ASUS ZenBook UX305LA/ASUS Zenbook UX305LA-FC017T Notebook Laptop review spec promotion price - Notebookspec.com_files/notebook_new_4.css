@@ -1,0 +1,81 @@
+/* CSS Document */
+/* ------------------------------- */
+#news_latest_bg { margin:0 auto 0; display:block; width:942px; }
+
+.news_latest_box { float:left; width:942px; height: auto !important; padding:0px 0px 0px 0px; margin:30px 0px 10px 0px;}
+
+.news_latest_top_box { float:left; width: 942px; height: auto; margin:0px 0px 20px 0px; }
+.news_latest_top_pic_bg { float:left; width:140px; height:39px; margin:0px 20px 0px -31px; background-image:url(../image/icon_4_5.png); }
+.news_latest_top_text { float:left; width:auto; margin:8px 0px 0px 46px; }
+
+.news_latest_detail_bg { float:left; width: 942px; height: auto; margin:0px 0px 0px 0px; }
+.news_latest_detail_box1 { float:left; width: 200px; height: auto; border-right:1px #e1e1e1 dotted; padding:0px 22px 0px 0px; margin:0px 22px 30px 0px; }
+.news_latest_detail_box2,.news_latest_detail_box1:nth-child(4n) { float:left; width: 200px; height: auto; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; border: none;}
+li .news_latest_detail_box1:nth-child(5){clear:left;}
+.news_latest_detail_pic { margin:0 auto 0; display:block; width:200px; height:140px; margin:0px 0px 20px 0px; }
+.news_latest_detail_text { line-height: 1.4; margin:0 auto 0; display:block; width:200px; height: auto !important; margin:0px 0px 10px 0px; }
+
+.news_latest_comment_bg { float:left; width: 200px; height: auto; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }
+.news_latest_comment_left { float:left; width: 100px; height: auto; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }
+
+.news_latest_comment_right { float: right; width: 100px; height: auto; text-align: right; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }
+.news_latest_comment_icon { float:right; width:14px; height:14px; margin:0px 0px 0px 10px;}
+.news_latest_comment_icon2 { float:right; width:14px; height:14px; margin:0px 0px 0px 10px; opacity:0.5; }
+.news_latest_comment_nember { float: right; width:auto !important; text-align:left; margin:0px 0px 0px 5px; }
+/* ------------------------------- */
+/* ------------------------------- */
+.new_latest_ohter_box { float:left; width:972px; height: auto !important; margin:0px 0px 25px 0px; border-bottom:1px #e1e1e1 dotted; }
+.new_latest_ohter_left_bg { float: left; width:200px; height:33px; border-left:1px #e1e1e1 solid; margin:2px 0px 0px 0px;}
+.new_latest_ohter_left_pic { float:left; width:33px; height:33px; margin:0px 10px 0px 10px; }
+.new_latest_ohter_left_text { float:left; width:130px; height:33px; text-align:left; margin:0px 0px 0px 0px; }
+.new_latest_ohter_left_text2 { float:left; width:130px; height:auto !important; text-align: center; margin:0px 0px 0px 0px; }
+
+.new_latest_ohter_left_more_bg { float: left; width:170px; height: auto !important; margin:10px 0px 0px 10px;}
+.new_latest_ohter_left_more_text { float: left; width: auto !important; height: auto !important; margin:0px 5px 0px 0px; }
+.new_latest_ohter_left_more_pic { float:left; width:10px; height:10px; margin:2px 0px 0px 0px; }
+
+.new_latest_ohter_right_bg { float: left; width:745px; height: auto !important;margin:0px 0px 0px 0px;}
+.new_latest_ohter_right_box1 { float:left; width: 160px; height: auto; margin:0px 35px 0px 0px; }
+.new_latest_ohter_right_box2,.new_latest_ohter_right_box1:nth-child(4) { float:left; width: 160px; height: auto; margin:0px 0px 0px 0px; }
+.new_latest_ohter_right_pic { float:left; width:160px; height:112px; margin:0px 0px 10px 0px; }
+.new_latest_ohter_right_text { float:left; width:160px; height: auto !important; margin:0px 0px 8px 0px; line-height:1.3;}
+
+.new_latest_ohter_right_day { float:left; width: 160px; height: auto; text-align:left; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }
+
+
+.new_latest_new_box { float:left; width:450px; height: auto !important; padding:0px 0px 0px 0px; margin:0px 10px 0px 20px;}
+.new_latest { float:left; width:395px; height:455px; padding:35px 0px 0px 42px; margin:-20px 0px 30px 0px; background-image:url(../image/latest_bg.jpg);}
+
+.new_latest_ohter_right_box2 { float:left; width: 160px; height: auto; margin:0px 0px 25px 0px; }
+.new_latest_header_topic { position:relative; float:left; width:450px; height:37px; padding:0px 0px 0px 0px; margin:0px 0px 0px -3px; z-index:2;}
+.new_latest_header_topic_left { float:left; width:4px; height:37px; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; background-image:url(../image/news_latest_topic_1.png); background-repeat: no-repeat; }
+.new_latest_header_topic_center { float:left; width:442px; height:37px; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; background-image:url(../image/news_latest_topic_2.png);}
+.new_latest_header_topic_center2 { float:left; width:140px; height:37px; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; background-image:url(../image/news_latest_topic_2.png); background-repeat: repeat-x; }
+.new_latest_header_topic_right { float: right; width:4px; height:37px; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; background-image:url(../image/news_latest_topic_3.png);}
+
+.new_latest_header_topic_center_text { float:left; margin:5px 10px 0px 10px;}
+.new_latest_ohter_right_pic_150x105 { float:left; width:150px; height:105px; margin:0px 0px 0px 0px; background-color:#CCC; border:4px #FFF solid; }
+
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */

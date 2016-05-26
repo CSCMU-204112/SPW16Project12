@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+/* ------------------------------------------------------------------------- */
+#bg_battle { margin:0 auto 0; display:block; width:952px; }
+.battle { float:left; width:952px; height: auto !important; padding:0px 0px 0px 0px; margin:0px 0px 20px 0px; background-color:#ffffff; }
+/* ------------------------------------------------------------------------- */
+.battle_left { float:left; width:180px; height: auto !important; padding:0px 0px 0px 0px; margin:0px 20px 0px 0px; background-color:#fff; }
+.battle_left_text { float:left; width:180px; height: auto; padding:0px 0px 0px 0px; margin:0px 0px 20px 0px; }
+.battle_left_text_center { float:left; width:180px; height: auto; text-align: center; padding:0px 0px 0px 0px; margin:0px 0px 20px 0px; }
+/* ------------------------------------------------------------------------- */
+.battle_center_box { float: left; width:180px; height: auto !important; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; background-color:#fff; }
+.battle_center_vs_box { float: left; width:68px; height: auto !important; text-align: center; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; background-color:#fff; }
+
+.battle_center_text_center { float: left; width:180px; height: auto !important; text-align: center; line-height:20px; padding:0px 0px 0px 0px; margin:0px 0px 20px 0px; background-color:#fff; }
+.battle_center_text_center_topic { float: left; width:180px; height:40px; text-align: center; line-height:20px; padding:0px 0px 0px 0px; margin:0px 0px 20px 0px; background-color:#fff; }
+.battle_center_pic_box { float: left; width:180px; height:144px; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; background-color:#fff; }
+.battle_center_pic_vs_box { float: left; width:68px; height:67px; background-image:url(../image/battle_2.jpg); padding:0px 0px 0px 0px; margin:120px 0px 0px 0px; background-color:#fff; }
+/* ------------------------------------------------------------------------- */
+.battle_center_cpu { float: left; width:650px; height: auto !important; padding:0px 0px 0px 0px; margin:0px 0px 20px 0px; background-color:#fff; }
+.battle_center_cpu_box { float: left; width:630px; height: auto !important; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; border-bottom:1px #dcdcdc solid;  background-color:#fff; }
+.battle_center_cpu_pic_bg { float: left; width:68px; height: auto !important; text-align: center; padding:0px 0px 0px 0px; margin:18px 0px 0px 0px; background-color:#fff; }
+.battle_center_cpu_pic_box { width:10px; height:6px; background-image:url(../image/battle_6.png); padding:0px 0px 0px 0px; margin:0 auto 0; background-color:#fff; }
+.battle_center_cpu_text_left { float:left; width:180px; height: auto; padding:10px 0px 10px 0px; line-height:20px; margin:0px 0px 0px 0px; }
+.battle_center_cpu_text_center { float: left; width:180px; height: auto !important; text-align: center; line-height:20px; padding:10px 0px 10px 0px; margin:0px 0px 0px 0px; background-color:#fff; }
+/* ------------------------------------------------------------------------- */
+.battle_button_bg { float:; width:150px; height:auto !important; text-align:center; padding:0px 0px 0px 0px; margin:0 auto 0; }
+.battle_button_number { float: left; width:auto !important; height:23px; border-bottom:1px #c1c1c1 solid; border-right:1px #c1c1c1 solid; font-size:11px; color:#333; border-top:1px #c1c1c1 solid; padding:3px 10px 0px 10px; margin:0px 0px 0px 0px; }
+.battle_button_arrow { float:left ; width:7px; height:28px; background-image:url(../image/battle_7.jpg); padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; }
+
+
+.battle_button_review { float:left; width:80px; height:23px; text-align:center; border:1px solid #c1c1c1; border-radius:5px; -moz-border-radius:3px; padding:4px 0px 0px 0px; margin:0px 3px 0px 10px;}
+.battle_button_review { 
+background: rgb(255,255,255); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(255,255,255,1) 0%, rgba(240,240,240,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,1)), color-stop(100%,rgba(240,240,240,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(240,240,240,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(240,240,240,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(240,240,240,1) 100%); /* IE10+ */
+background: linear-gradient(top,  rgba(255,255,255,1) 0%,rgba(240,240,240,1) 100%); /* W3C */
+}
+
+
+.battle_button_text {float: left; width:150px; height:auto !important; margin:10px 0px 0px 0px;}
+/* ------------------------------------------------------------------------- */
+.battle_right { float: right; width:300px; height: auto !important; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px; background-color:#fff; }
+.battle_right_text { float:left; width:300px; height: auto; padding:0px 0px 0px 0px; margin:0px 0px 30px 0px; }
+.battle_right_text_center { float:left; width:300px; height: auto; text-align: center; padding:0px 0px 0px 0px; margin:0px 0px 30px 0px; }
+.battle_right_text_center a:hover { border:0px;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx page */
