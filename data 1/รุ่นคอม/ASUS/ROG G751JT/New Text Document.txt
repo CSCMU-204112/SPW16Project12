@@ -1,0 +1,14 @@
+CPUIntel Core i7-4710HQ (2.50 GHz, 6 MB L3 Cache, up to 3.50 GHz)ChipsetMobile Intel Express ChipsetGraphic SystemGraphic CardNVIDIA GeForce GTX 970M (3GB GDDR5)DisplaySize17.3 inch (1920x1080) Full HDType Anti Glare ñ ®Õ¥È“πTouch Screen
+Main MemoryMemory 16 GB DDR3L	(Upgrade   ) Hard Disk DriveHard Disk1 TB 7200 RPM + 256 GB SSD Optical Disc DriveDrive9.5 mm 6X Blu-Ray (Read)Web CameraDetailsHD Web Camera Port & InterfaceUSB 2.0
+USB 3.04USB 3.1
+USB 3.1 Type C
+Display Port
+D-Sub/VGA
+Thunderbolt
+HDMI
+Card Reader( SD/ MMC)Express Slot
+Finger Print
+ConnectionWireless Lan802.11 a/b/g/n/acBluetooth
+LAN
+SIM (3G)
+BatteryType8 CellCapacity6000 mAh

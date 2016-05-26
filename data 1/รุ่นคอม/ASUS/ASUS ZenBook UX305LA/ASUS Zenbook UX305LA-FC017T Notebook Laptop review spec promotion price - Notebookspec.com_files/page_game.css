@@ -1,0 +1,309 @@
+.gameblog1_container{
+	padding:15px 11px;	
+	display:inline-block;
+}
+.gameblog1_blog1{
+	width:302px;
+	float:left;
+}
+.gameblog1_itemname{
+	text-align:center;
+	font-weight:bold;	
+	height:20px;
+}
+.gameblog1_blog1_blank{
+	height:25px
+}
+.gameblog1_blog1_leftBlank{
+	width:44px;
+	height:261px;
+	float:left;
+}
+.gameblog1_blog1_Center{
+	width:226px; 
+	height:261px; 
+	float:left;
+}
+.gameblog1_blog1_rightBlank{
+	width:32px;
+	height:261px;
+	float:left;
+}
+#gameblog1_blog1_itempic{
+	width:168px; 
+	height:135px; 
+	float:left;
+}
+#gameblog1_blog1_cpuIcon{
+	width:58px; 
+	height:135px; 
+	float:left;
+}
+#gameblog1_blog1_price{
+	height:30px; 
+	clear:both;
+	text-align:center;
+}
+#gameblog1_blog1_spec{
+	height:96px; 
+	clear:both;
+}
+.gameblog1_bottomspace{
+	height:17px; 
+	clear:both;
+}
+.gameblog1_blog2{
+	width:263px;
+	float:left;
+}
+.gameblog1_blog2_line{
+	width:3px; 
+	height:307px; 
+	float:left; 
+	background:#e1e1e1;
+}
+.gameblog1_blog2_blank1{
+	width:14px; 
+	height:307px; 
+	float:left;
+}
+.gameblog1_blog2_gamecover{
+	width:230px; 
+	height:307px; 
+	float:left;
+}
+.gameblog1_blog2_blank2{
+	width:16px;
+	height:307px; 
+	float:left;
+}
+.gameblog1_blog3{
+	width:385px;
+	float:left;
+}
+.gameblog1_blog3_bar{
+	width:375px; 
+	padding:5px; 
+	background:#e1e1e1; 
+	display:inline-block;
+}
+.gameblog1_blog3_header1{
+	width:235px; 
+	float:left; 
+	line-height:20px;
+}
+.gameblog1_blog3_search{
+	width:140px;
+	float:right;
+}
+.gameblog1_blog3_gamename{
+	height:30px;
+	line-height:30px;
+	padding:0px 10px;
+}
+.gameblog1_blog3_synopsis{
+
+	padding:0px 20px 0px 10px;
+}
+.gameblog1_blog3_readmore{
+	height:24px;
+	line-height:24px; 
+	padding:0px 20px 0px 10px; 
+	text-align:right;
+	font-weight:bold;
+}
+.gameblog1_blog3_speccheck{ 
+	padding:0px 20px 0px 10px;
+}
+.gameblog2_container{
+	padding:0px 11px;	
+	display:inline-block;
+}
+.gameblog2_bar{
+	padding:5px 7px; 
+	width:936px; 
+	display:inline-block; 
+	background:#e1e1e1;
+}
+.gameblog2_titlebar{
+	float:left; 
+	width:752px; 
+	line-height:25px;
+}
+.gameblog2_searchbox{
+	float:left; 
+	width:184px; 
+	height:27px;
+}
+.gameblog_blankblog{
+	width:40px;
+	height:50px;
+	float:left;
+}
+.gameblog_minigameblog{
+	width:90px;
+	float:left;
+}
+.gameblog_blankrow{
+	height:40px;
+	clear:both;
+}
+.gameblog3_main{
+	width:220px;
+	background:url(image/game_bg_blog.jpg);
+	padding:15px 10px;
+	float:left;
+}
+.gameblog3_box{
+	/*width:198px;*/
+	background-color:#FFF;
+	padding:10px;
+	/*border:1px solid #d3d3d3;*/
+}
+.gameblog3_title{
+	float:left;
+	width:184px;
+}
+.gameblog3_searchbox{
+	float:left;
+	width:80px;
+}
+.gameblog3_space{
+	height:10px;
+	clear:both;
+}
+.gameblog3_gameimg{
+	float:left;
+	width:70px;
+	height:70px;
+}
+.gameblog3_gameblank{
+	float:left;
+	width:3px;
+	height:70px;
+}
+.gameblog3_gamedetailbox{
+	float:left;
+	width:191px;
+}
+.gameblog3_gamename{
+	padding:3px 0px;
+	font-weight:bold;
+	text-align:center;
+}
+.gameblog3_gamespec_bar{
+	padding:2px 3px;
+	background-color:#e1e1e1;
+}
+.gameblog3_gamespec_box{
+	padding:0px 5px 0px 5px;
+	font-weight:bold;
+}
+.gameblog3_gamespec_img{
+	vertical-align:middle;
+	padding-right:5px;
+}
+.gameblog3_gamedetail_bar{
+	padding:3px 5px;
+    background-color:#e1e1e1;
+}
+.gameblog3_gamestory_box{
+	padding:5px 5px 10px;
+}
+.gameblog3_gamespec_list{
+	padding:5px 5px 3px;
+}
+.gameblog3_speclist{
+	vertical-align:middle;
+}
+.gameblog3_gamemore{
+	padding:2px 10px;
+	text-align:right;
+	font-weight:bold;
+}
+.gameblog3_blogspec{
+	width:4px;
+	height:20px;
+	float:left;	
+}
+
+
+
+.gameblog4_main{
+	width:220px;
+	background:url(image/game_bg_blog.jpg);
+	padding:15px 10px;
+	float:left;
+}
+.gameblog4_box{
+	width:198px;
+	background-color:#FFF;
+	padding:10px;
+	border:1px solid #d3d3d3;
+}
+.gameblog4_title{
+	float:left;
+	width:115px;
+}
+.gameblog4_searchbox{
+	float:left;
+	width:80px;
+}
+.gameblog4_space{
+	height:10px;
+	clear:both;
+}
+.gameblog4_gameimg{
+	float:left;
+	width:70px;
+	height:70px;
+}
+.gameblog4_gameblank{
+	float:left;
+	width:3px;
+	height:70px;
+}
+.gameblog4_gamedetailbox{
+	float:left;
+	width:125px;
+}
+.gameblog4_gamename{
+	padding:3px 0px;
+	font-weight:bold;
+	text-align:center;
+}
+.gameblog4_gamespec_bar{
+	padding:2px 3px;
+	background-color:#e1e1e1;
+}
+.gameblog4_gamespec_box{
+	padding:0px 5px 0px 5px;
+	font-weight:bold;
+}
+.gameblog4_gamespec_img{
+	vertical-align:middle;
+	padding-right:5px;
+}
+.gameblog4_gamedetail_bar{
+	padding:3px 5px;
+    background-color:#e1e1e1;
+}
+.gameblog4_gamestory_box{
+	padding:5px 5px 10px;
+}
+.gameblog4_gamespec_list{
+	padding:5px 5px 3px;
+}
+.gameblog4_speclist{
+	vertical-align:middle;
+}
+.gameblog4_gamemore{
+	padding:2px 10px;
+	text-align:right;
+	font-weight:bold;
+}
+.gameblog4_blogspec{
+	width:4px;
+	height:20px;
+	float:left;	
+}

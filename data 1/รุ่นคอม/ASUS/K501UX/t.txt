@@ -1,0 +1,13 @@
+CPUIntel Core i7-6500U (2.50 GHz, 4 MB L3 Cache, up to 3.10 GHz)ChipsetIntel Skylake U 1-chip seriesGraphic SystemGraphic CardNVIDIA GeForce GTX 950M (4GB GDDR3)DisplaySize15.6 inch (1920x1080) Full HDType Anti Glare ñ ®Õ¥È“πTouch Screen
+Main MemoryMemory 4 GB DDR3L	(Upgrade   ) Hard Disk DriveHard Disk1 TB 5400 RPM + 16 GB M.2 SSDOptical Disc DriveDriveNoWeb CameraDetailsVGA Web CameraPort & InterfaceUSB 2.01USB 3.02USB 3.1
+USB 3.1 Type C
+Display Port
+D-SubVGA
+Thunderbolt
+HDMI
+Card ReaderSD card readerExpress Slot
+Finger Print
+ConnectionWireless Lan802.11acBluetooth
+LAN
+SIM (3G)
+BatteryType3 cell battery

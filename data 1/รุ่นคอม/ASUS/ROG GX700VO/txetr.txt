@@ -1,0 +1,13 @@
+CPUIntel Core i7-6820HK (2.70 GHz, 8 MB L3 Cache, up to 3.60 GHz)ChipsetMobile Intel Express ChipsetGraphic SystemGraphic CardNVIDIA GeForce GTX 980 (8GB GDDR5)DisplaySize17.3 inch (1920x1080) Full HDType Anti Glare ñ ®Õ¥È“πTouch Screen
+Main MemoryMemory 32 GB DDR4 Hard Disk DriveHard Disk512 GB SSD (256GB x2 RAID)Optical Disc DriveDriveNoWeb CameraDetailsHD Web CameraPort & InterfaceUSB 2.0
+USB 3.03USB 3.1
+USB 3.1 Type C1Display Port  (mini)
+D-SubVGA
+Thunderbolt
+HDMI
+Card Reader2 -in-1 card reader ( SD MMC)Express Slot
+Finger Print
+ConnectionWireless Lan802.11 acBluetooth
+LAN
+SIM (3G)
+BatteryType6-Cells

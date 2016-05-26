@@ -1,0 +1,13 @@
+CPUIntel Core i7-6500U (2.50 GHz, 4 MB L3 Cache, up to 3.10 GHz)ChipsetIntel Skylake U 1-chip seriesGraphic SystemGraphic CardNVIDIA GeForce GT 940M (2GB GDDR3)DisplaySize14 inch (1920x1080) Full HDType Anti Glare ñ ®Õ¥È“πTouch Screen
+Main MemoryMemory 4 GB DDR3L	(Upgrade   ) Hard Disk DriveHard Disk1TB 5400 RPM + 24 GB SSDOptical Disc DriveDriveDVD Writer (Dual-Layer, DVD-RAM Support)Web CameraDetailsHD WebcamPort & InterfaceUSB 2.02USB 3.02USB 3.1
+USB 3.1 Type C
+Display Port
+D-Sub/VGA
+Thunderbolt
+HDMI
+Card ReaderSD card readerExpress Slot
+Finger Print
+ConnectionWireless LanAtheros (802.11b/g/n)Bluetooth
+LAN
+SIM (3G)
+BatteryType3-Cell battery

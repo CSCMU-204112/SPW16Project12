@@ -1,0 +1,13 @@
+CPUIntel Atom Z3775 (1.46 - 2.39 GHz, 2M L2Cache) ChipsetMobile Intel Express ChipsetGraphic SystemGraphic CardIntel HD GraphicsDisplaySize11.6 inch (1366x768) HD IPS Multi-touch screenType Glare – ¨Í¡ÃÐ¨¡Touch Screen
+Main MemoryMemory 2 GB DDR3	(Upgrade   ) Hard Disk DriveHard Disk500 GB 5400 RPM + 32 GB SSDOptical Disc DriveDriveNoWeb CameraDetailsHD Web Camera + 5 Mega Pixel rear camera with Auto FocusPort & InterfaceUSB 2.01USB 3.01USB 3.1
+USB 3.1 Type C
+Display Port
+D-Sub/VGA
+Thunderbolt
+HDMI  (mini)
+Card ReaderSDXCExpress Slot
+Finger Print
+ConnectionWireless Lan802.11 a/g/nBluetooth
+LAN
+SIM (3G)
+BatteryType2 Cell

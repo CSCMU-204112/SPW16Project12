@@ -1,0 +1,282 @@
+@charset "utf-8";
+/* CSS Document */
+/* Dropdown Menu ------------------------------------------------------------------------- */
+.selectedanchor{ /*CSS class that gets added to the currently selected anchor link (assuming it's a text link)*/
+background:;
+margin:0px 0px 0px 0px;
+}
+
+/* ######### Default class for drop down menus ######### */
+
+.anylinkmenu{
+position: absolute;
+left: 0;
+top: 0;
+visibility: hidden;
+border: 1px solid #bbb;
+border-bottom-width: 0;
+font: bold 12px  Tahoma, Geneva, sans-serif;
+line-height:;
+z-index: 100; /* zIndex should be greater than that of shadow's below */
+background:#F7F7F7;
+width: 150px; /* default width for menu */
+}
+
+.anylinkmenu ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+.anylinkmenu ul li a{
+width: 100%;
+display: block;
+text-indent: 10px;
+border-bottom: 1px solid #bbb;
+padding:8px 0px 8px 0px;
+text-decoration: none;
+font-weight: bold;
+margin:0px 0px 0px 0px;
+}
+
+.anylinkmenu a:hover{ /*hover background color*/
+background: #F7F7F7;
+color: #FB8E25;
+}
+
+/* ######### Alternate multi-column class for drop down menus ######### */
+
+
+.anylinkmenucols{
+position: absolute;
+width: 350px;
+left: 0;
+top: 0;
+visibility: hidden;
+border: 1px solid black;
+padding: 10px;
+font: normal 12px Verdana;
+z-index: 100; /*zIndex should be greater than that of shadow's below*/
+background: #E9E9E9;
+}
+
+.anylinkmenucols li{
+padding-bottom: 3px;
+}
+
+.anylinkmenucols .column{
+float: left;
+padding: 3px 8px;
+margin-right: 5px;
+background: #E0E0E0;
+}
+
+.anylinkmenucols .column ul{
+margin: 0;
+padding: 0;
+list-style-type: none;
+}
+
+
+
+/* ######### class for shadow DIV ######### */
+/* Button Social------------------------------------------------------------------------- */
+#button_js1 {
+  background: #FFF url('../image/social_right1_3.jpg');
+  background-position: 0 0;
+  height: 32px;
+  width: 32px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+  
+    /*Rounded Corners*/
+  border-radius: 2px;
+ 
+  /*Shadow*/
+  
+    /*Transition*/
+  -webkit-transition: All 0.5s ease;
+  -moz-transition: All 0.5s ease;
+  -o-transition: All 0.5s ease;
+  -ms-transition: All 0.5s ease;
+  transition: All 0.5s ease;
+}
+#button_js1:hover {
+  background-position: 0 96px;
+  border:0px;
+}
+#button_js2 {
+  background: #FFF url('../image/social_right2_3.jpg');
+  background-position: 0 0;
+  height: 32px;
+  width: 32px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+  
+    /*Rounded Corners*/
+  border-radius: 2px;
+ 
+  /*Shadow*/
+  
+    /*Transition*/
+  -webkit-transition: All 0.5s ease;
+  -moz-transition: All 0.5s ease;
+  -o-transition: All 0.5s ease;
+  -ms-transition: All 0.5s ease;
+  transition: All 0.5s ease;
+}
+#button_js2:hover {
+  background-position: 0 96px;
+  border:0px;
+}
+#button_js3 {
+  background: #FFF url('../image/social_right3_3.jpg');
+  background-position: 0 0;
+  height: 32px;
+  width: 32px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+  
+    /*Rounded Corners*/
+  border-radius: 2px;
+ 
+  /*Shadow*/
+  
+    /*Transition*/
+  -webkit-transition: All 0.5s ease;
+  -moz-transition: All 0.5s ease;
+  -o-transition: All 0.5s ease;
+  -ms-transition: All 0.5s ease;
+  transition: All 0.5s ease;
+}
+#button_js3:hover {
+  background-position: 0 96px;
+  border:0px;
+}
+#button_js4 {
+  background: #FFF url('../image/social_right4_3.jpg');
+  background-position: 0 0;
+  height: 32px;
+  width: 32px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+  
+    /*Rounded Corners*/
+  border-radius: 2px;
+ 
+  /*Shadow*/
+  
+    /*Transition*/
+  -webkit-transition: All 0.5s ease;
+  -moz-transition: All 0.5s ease;
+  -o-transition: All 0.5s ease;
+  -ms-transition: All 0.5s ease;
+  transition: All 0.5s ease;
+}
+#button_js4:hover {
+  background-position: 0 96px;
+  border:0px;
+}
+#button_js5 {
+  background: #FFF url('../image/social_right5_3.jpg');
+  background-position: 0 0;
+  height: 32px;
+  width: 32px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+  
+    /*Rounded Corners*/
+  border-radius: 2px;
+ 
+  /*Shadow*/
+  
+    /*Transition*/
+  -webkit-transition: All 0.5s ease;
+  -moz-transition: All 0.5s ease;
+  -o-transition: All 0.5s ease;
+  -ms-transition: All 0.5s ease;
+  transition: All 0.5s ease;
+}
+#button_js5:hover {
+  background-position: 0 96px;
+  border:0px;
+}
+#button_js6 {
+  background: #FFF url('../image/social_right6_3.jpg');
+  background-position: 0 0;
+  height: 32px;
+  width: 32px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+  
+    /*Rounded Corners*/
+  border-radius: 2px;
+ 
+  /*Shadow*/
+  
+    /*Transition*/
+  -webkit-transition: All 0.5s ease;
+  -moz-transition: All 0.5s ease;
+  -o-transition: All 0.5s ease;
+  -ms-transition: All 0.5s ease;
+  transition: All 0.5s ease;
+}
+#button_js6:hover {
+  background-position: 0 96px;
+  border:0px;
+}
+#button_js7 {
+  background: #FFF url('../image/social_right7_3.jpg');
+  background-position: 0 0;
+  height: 32px;
+  width: 32px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+  
+    /*Rounded Corners*/
+  border-radius: 2px;
+ 
+  /*Shadow*/
+  
+    /*Transition*/
+  -webkit-transition: All 0.5s ease;
+  -moz-transition: All 0.5s ease;
+  -o-transition: All 0.5s ease;
+  -ms-transition: All 0.5s ease;
+  transition: All 0.5s ease;
+}
+#button_js7:hover {
+  background-position: 0 96px;
+  border:0px;
+}
+
+.search_gg{
+	position: absolute; 
+	margin-left: -120px; 
+	margin-top: 28px; 
+	display:none;
+	border: 1px solid #CCC;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	background-color: #F7F7F7;
+	height: 25px;
+}
+
+/* Shadow------------------------------------------------------------------------- */
+
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx page */

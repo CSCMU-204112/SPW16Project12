@@ -1,0 +1,292 @@
+/* ------------------------------------------------------------------------- */
+.pc_nbs_new_product_pic_box { float: left; width:210px; height: auto; margin-bottom:20px; }
+.pc_nbs_new_product_pic { display:block; color:#999999; width:130px; height:105px; border: 1px solid #E9E9E9; box-shadow: 0px 0px 7px rgba(0,0,0,0.2),0px 0px 0px 1px rgba(188,188,188,0.1); border-radius: 4px; -moz-border-radius: 3px; transition: box-shadow 0.3s ease-in-out; padding:4px; margin:0 auto 0; }
+.pc_nbs_new_product_text { display:block; color:#999999; width:130px; height: auto; padding:4px; padding-top:8px; margin:0 auto 0; line-height:16px; }
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.pc_nbs_right_bg { float:right; width:300px; height:auto; padding-left:10px;}
+
+.pc_nbs_right_box { float:left; width:300px; height:auto; margin-bottom:15px;}
+.pc_nbs_right_box2 { float:left; width:300px; height:auto; margin-bottom:10px;}
+.pc_nbs_right_box3 { float:left; width:300px; height:auto; margin-bottom:5px;}
+.pc_nbs_right_box4 { float:left; width:300px; height:auto;}
+/* ------------------------------------------------------------------------- */
+
+.pc_nbs_right_list_top_box { float:left; width:280px; height:auto; margin-bottom:5px; background-color:#CCC; padding:5px 10px; font-size:14px;  color:#FFF;}
+.pc_nbs_right_list_top_view { float:left; width:300px; height:auto; margin-bottom:5px; font-size:12px;  color:#333; text-align:right;}
+
+.pc_nbs_right_list_bg { float:left; width:300px; height:auto; margin-bottom:8px;}
+.pc_nbs_right_list_line_bg { float:left; width:276px; height:auto; padding-bottom:8px; margin-left:5px; border-bottom:1px #CCC solid; }
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.pc_nbs_center_box { float:left; width:425px; height:auto;}
+.pc_nbs_center_box2 { float:left; width:425px; height:auto; margin-bottom:10px;}
+
+.pc_nbs_center_top_line { float:left; width:445px; height:auto; border-left:1px #CCC solid; border-right:1px #CCC solid; }
+.pc_nbs_center_top_bg { float:left; width:425px; height:auto; margin:10px; margin-top:0px; border-bottom:1px #CCC solid; }
+.pc_nbs_center_top_bg2 { float:left; width:425px; height:auto; margin:10px; margin-top:0px; }
+
+.pc_nbs_center_top_topic { float:left; width:295px; background-color:#ff6600; padding:6px 10px; margin-bottom:10px;}
+.pc_nbs_center_top_topic_button { float:left; width:110px; background-color:#ff0000; padding:6px 0px; margin-bottom:10px; text-align:center; cursor:pointer;}
+.pc_nbs_center_top_topic_button:hover { background-color:#000;}
+.pc_nbs_center_top_topic2 { float:left; width:405px; background-color:#ff6600; padding:6px 10px; margin-bottom:10px;}
+
+.pc_nbs_center_top_left_bkk { float:left; width:202px; height:auto; border-right:1px #FFF solid; padding-left:10px;}
+.pc_nbs_center_top_right_bkk { float: right; width:202px; height:auto; padding-left:10px;}
+/* ------------------------------------------------------------------------- */
+.pc_nbs_center_top_left { float:left; width:212px; height:auto; border-right:1px #CCC solid; }
+.pc_nbs_center_top_right { float: right; width:212px; height:auto; }
+
+.pc_nbs_center_top_left_amd { float:left; width:192px; height:auto; background-color:#016600; padding:2px 10px; color:#FFF; font-size:14px; margin-bottom:5px;}
+.pc_nbs_center_top_left_intel { float:left; width:192px; height:auto; background-color:#013366; padding:2px 10px; color:#FFF; font-size:14px; margin-bottom:5px;}
+
+.pc_nbs_center_top_left_amd_box { float:left; width:202px; height:auto; border-bottom:1px #CCC solid; padding:5px;}
+.pc_nbs_center_top_left_amd_box_finish { float:left; width:202px; height:auto; padding:5px;}
+.pc_nbs_center_top_left_amd_pic { float:left; width:48px; height:48px; margin-right:5px; background-color:#e1e1e1; }
+.pc_nbs_center_top_left_amd_text { float:left; width:95px; height:48px; line-height:16px;}
+.pc_nbs_center_top_left_amd_right { float:right; width:50px; height:auto; text-align:right; color:#ff6503; font-size:11px; line-height:16px;}
+
+.pc_nbs_center_top_left_amd_rate { float:left; width:212px; height:auto; text-align:center; margin-top:10px;}
+
+.pc_nbs_center_box_button { float:left; width:425px; height:auto; text-align:center; margin-bottom:5px;}
+.pc_nbs_center_box_button_st {
+	font-size:15px;
+	padding:3px 5px;
+	cursor:pointer;
+}
+
+.pc_nbs_center_brand { float:left; width:403px; height:auto;}
+
+.pc_nbs_center_detail_box1 { float:left; width: 200px; height: auto; padding:0px 25px 0px 0px; margin:0px 0px 20px 0px; }
+.pc_nbs_center_detail_box2 { float:left; width: 200px; height: auto;}
+.pc_nbs_center_detail_pic { margin:0 auto 0; display:block; width:200px; height:140px; margin:0px 0px 15px 0px; }
+.pc_nbs_center_detail_text { line-height: 1.4; margin:0 auto 0; display:block; width:200px; height: auto; margin:0px 0px 10px 0px; }
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.pc_nbs_content_bg { position:relative; float:left; width:622px; height:auto; margin-bottom:20px; margin-top:40px;}
+.pc_nbs_content_top_topic { float:left; width:602px; background-color:#eceaeb; padding:6px 10px; color:#000; font-size:22px;}
+.pc_nbs_content_list_box { float:left; width:610px; padding:10px 5px; border-bottom:1px #eceaeb solid;}
+
+.pc_nbs_content_list_detail_box { float:left; width:540px; height:auto;}
+.pc_nbs_content_list_detail_box2 { float:left; width:622px; height:auto;}
+.pc_nbs_content_list_input5 { float:left; width:480px; height:auto; color:#333; padding:1px; border:1px #CCC solid; }
+
+.pc_nbs_content_button_orange { float:left; height:24px; color:#FFF; border:0px; padding:3px 15px; background-color:#ff6503; cursor:pointer;}
+.pc_nbs_content_button_orange:hover {background-color:#000;}
+.pc_nbs_content_button_black { float:left; height:24px; color:#FFF; border:0px; padding:0px 15px; background-color:#000; cursor:pointer;}
+.pc_nbs_content_button_black:hover {background-color:#ff6503;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.pc_nbs_top_chart_1 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_03.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_1:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_03.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_2 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_06.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_2:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_06.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_3 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_13.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_3:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_13.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_4 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_17.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_4:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_17.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_5 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_20.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_5:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_20.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_6 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_23.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_6:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_23.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_7 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_26.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_7:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_26.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_8 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_30.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_8:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_30.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_9 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_33.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_9:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_33.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_10 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_35.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_10:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_35.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_11 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_37.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_11:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_37.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_12 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_39.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_12:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_39.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_13 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_49.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_13:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_49.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_14 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_51.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_14:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_51.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_15 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_53.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_15:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_53.jpg); 
+	border-bottom:0px;
+}
+.pc_nbs_top_chart_16 { 
+	float:left; 
+	width:55px; 
+	height:55px; 
+	background-image:url(../image/nbs-pc-poweruser_55.jpg); 
+	background-repeat:no-repeat; 
+	background-position:center center;
+}
+.pc_nbs_top_chart_16:hover { 
+	background-image:url(../image/nbs-pc-poweruser2_55.jpg); 
+	border-bottom:0px;
+}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.pc_add_text_left { float:left; width:80px; height:auto; margin-left:8px;}
+.pc_add_text_right { float: right; width:840px; height:auto;}
+
+.pc_add_left { float:left; width:465px; height:auto; padding-right:20px; padding-bottom:3px; border-right:1px #cccccc solid; line-height:24px;}
+.pc_add_right { float:left; width:465px; height:auto; padding-left:20px; padding-bottom:3px; line-height:24px;}
+
+.pc_add_more_right { float:left; width:969px; height:auto; text-align:right; margin-top:10px;}
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */

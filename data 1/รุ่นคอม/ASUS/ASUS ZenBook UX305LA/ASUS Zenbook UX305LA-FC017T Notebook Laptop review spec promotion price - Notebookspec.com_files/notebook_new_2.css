@@ -1,0 +1,196 @@
+@charset "utf-8";
+/* CSS Document */
+/* ------------------------------------------------------------------------- */
+
+.corner2_left { float: left; width:300px; margin:0px 21px 0px 15px; border-right:dotted 1px #c0c0c0; }
+.corner2_center { float: left; width:300px; margin:0px 0px 0px 0px; border-right:dotted 1px #c0c0c0; }
+.corner2_right { float: right; width:300px; margin:0px 15px 0px 0px; }
+
+.coner2_right_topic { float:left; width: 250px; height: auto; margin:0px 0px 20px 0px; }
+.coner2_right_topic_notebook { float:left; width: 942px; height: auto; margin:0px 0px 20px 0px; }
+.corner2_topic_box { float:left; width:200px; margin:0px 0px 3px 0px; }
+.corner2_topic_box_notebook { float:left; width:auto; margin:7px 20px 3px 0px; }
+.corner2_pic { float:left; width:38px; height:38px; margin:0px 10px 0px 0px; }
+
+.coner2_right_detail { float:left; width: 285px; height: auto; padding:10px 0px 10px 0px; border-bottom:1px #eeeeee solid; margin:0px 15px 0px 0px;}
+.coner2_right_detail_pic { float:left; width:108px; height:76px; background-image:url(../image/coner_126.jpg); padding:7px 0px 0px 6px; }
+.coner2_right_detail_text { float:left; width:155px; margin:0px 0px 0px 15px; line-height:16px; }
+/* ------------------------------------------------------------------------- */
+#bg_corner2_notebook_box { margin:0 auto 0; display:block; width:942px; }
+.corner2_notebook_box { float:left; width:942px; height: auto !important; border-bottom:1px #e5e5e5 solid; padding:20px 0px 20px 0px; margin:0px 0px 20px 0px;}
+.corner2_notebook_box_footer { float:left; width:942px; height: auto !important; padding:0px 0px 0px 0px; margin:0px 0px 10px 0px;}
+
+.corner2_next_box { float:left; width:auto; margin:15px 0px 0px 0px;}
+.corner2_next_pic { float:left; width:10px; height:10px; margin:0px 4px 0px 0px;}
+/* ------------------------------------------------------------------------- */
+.corner2_detail_left_box { float:left; width:45px; height: auto !important; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px;}
+.corner2_detail_left_pic { float:left; width:45px; height:45px; padding:0px 0px 0px 0px; margin:0px 0px 15px 0px;}
+/* ------------------------------------------------------------------------- */
+.corner2_detail_right_box { float: right; width:897px; height: auto !important; padding:0px 0px 0px 0px; margin:0px 0px 0px 0px;}
+.corner2_detail_right_bg { float: right; width:138px; height: auto !important; padding:0px 0px 0px 0px; margin:0px 8px 0px 25px;}
+.corner2_detail_right_bg2 { float: left; width:104px; height: auto !important; padding:0px 0px 0px 0px; margin:0px 0px 0px 43px;}
+li .corner2_detail_right_bg:first-child{margin:0px 8px 0px 15px;}
+
+#notebook_flexslide.corner2_detail_right_box {width:860px; }
+
+
+.corner2_detail_bg_pic { float:right; color:#999999; width:125px; height:100px; border: 1px solid #E9E9E9; box-shadow: 0px 0px 7px rgba(0,0,0,0.2),0px 0px 0px 1px rgba(188,188,188,0.1); border-radius: 4px; -moz-border-radius: 3px; transition: box-shadow 0.3s ease-in-out; padding:6px; margin: 0px 0px 0px 0px; }
+.corner2_detail_text { float: left; width:138px; height: auto !important; padding:0px 0px 0px 0px; margin:7px 0px 0px 0px;}
+.corner2_detail_text_box { float:left; width:123px; margin:0px 0px 0px 8px; line-height:16px; }
+/* ------------------------------------------------------------------------- */
+.corner2_detail_bg_pic90 { display:block; color:#999999; width:90px; height:125px; border: 1px solid #E9E9E9; box-shadow: 0px 0px 7px rgba(0,0,0,0.2),0px 0px 0px 1px rgba(188,188,188,0.1); border-radius: 4px; -moz-border-radius: 3px; transition: box-shadow 0.3s ease-in-out; padding:6px; margin:0 auto 0; }
+.corner2_detail_text2 { float: left; width:104px; height: auto !important; padding:0px 0px 0px 0px; margin:7px 0px 0px 0px;}
+.corner2_detail_text2_box { float:left; width:96px; margin:0px 0px 0px 8px; line-height:16px; }
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx page */
+.button_icon_new_box { float:left; width:190px; margin:0px 0px 20px 4px; }
+
+.button_icon_new { float:left; padding:0px 0px 0px 0px; height:38px; width:38px; margin:0px 12px 0px 0px; }
+.button_icon_new2 { float:left; padding:0px 0px 0px 0px; height:38px; width:38px; margin:0px 0px 0px 0px; }
+
+#button_icon_new_1 {
+  background: #FFF url('../image/icon_new1.png');
+  background-position: 0 0;
+  height: 38px;
+  width: 38px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+  
+    /*Rounded Corners*/
+  border-radius: 2px;
+ 
+  /*Shadow*/
+  
+    /*Transition*/
+  -webkit-transition: All 0.5s ease;
+  -moz-transition: All 0.5s ease;
+  -o-transition: All 0.5s ease;
+  -ms-transition: All 0.5s ease;
+  transition: All 0.5s ease;
+}
+#button_icon_new_1:hover {
+  background-position: 0 114px;
+  border:0px;
+}
+#button_icon_new_2 {
+  background: #FFF url('../image/icon_new2.png');
+  background-position: 0 0;
+  height: 38px;
+  width: 38px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+  
+    /*Rounded Corners*/
+  border-radius: 2px;
+ 
+  /*Shadow*/
+  
+    /*Transition*/
+  -webkit-transition: All 0.5s ease;
+  -moz-transition: All 0.5s ease;
+  -o-transition: All 0.5s ease;
+  -ms-transition: All 0.5s ease;
+  transition: All 0.5s ease;
+}
+#button_icon_new_2:hover {
+  background-position: 0 114px;
+  border:0px;
+}
+#button_icon_new_3 {
+  background: #FFF url('../image/icon_new3.png');
+  background-position: 0 0;
+  height: 38px;
+  width: 38px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+  
+    /*Rounded Corners*/
+  border-radius: 2px;
+ 
+  /*Shadow*/
+  
+    /*Transition*/
+  -webkit-transition: All 0.5s ease;
+  -moz-transition: All 0.5s ease;
+  -o-transition: All 0.5s ease;
+  -ms-transition: All 0.5s ease;
+  transition: All 0.5s ease;
+}
+#button_icon_new_3:hover {
+  background-position: 0 114px;
+  border:0px;
+}
+
+#button_icon_new_4 {
+  background: #FFF url('../image/icon_new4.png');
+  background-position: 0 0;
+  height: 38px;
+  width: 38px;
+  margin: 0px 0 0 0px;
+  overflow: hidden;
+  display: block;
+  
+    /*Rounded Corners*/
+  border-radius: 2px;
+ 
+  /*Shadow*/
+  
+    /*Transition*/
+  -webkit-transition: All 0.5s ease;
+  -moz-transition: All 0.5s ease;
+  -o-transition: All 0.5s ease;
+  -ms-transition: All 0.5s ease;
+  transition: All 0.5s ease;
+}
+#button_icon_new_4:hover {
+  background-position: 0 114px;
+  border:0px;
+}
+/* ------------------------------------------------------------------------- */
+.corner2_search_right_bg { float: right; width:auto; height: auto !important; padding:0px 0px 0px 0px; margin:10px 5px 0px 0px;}
+.corner2_search_right_pic { float: right; width:17px; height:17px; background-image:url(../image/find-17px.png); padding:0px 0px 0px 0px; margin:0px 0px 0px 0px;}
+.corner2_search_right_text { float: right; width:auto; height: auto !important; padding:0px 0px 0px 0px; margin:0px 0px 0px 10px;}
+/* ------------------------------------------------------------------------- */
+
+.corner2_icon_new_bg_1 { float:left; width:181px; height:38px; margin:0px 10px 0px 0px; background-image:url(../image/icon_3_n1.jpg); }
+.corner2_icon_new_bg_2 { float:left; width:181px; height:38px; margin:0px 10px 0px 0px; background-image:url(../image/icon_3_n2.jpg); }
+.corner2_icon_new_text { float:left; width:auto; margin:7px 0px 0px 42px; }
+/* ------------------------------------------------------------------------- */
+.corner3_icon_new_bg_1 { float:left; width:211px; height:42px; margin:0px 20px 0px -31px; background-image:url(../image/icon_4_1.png); }
+.corner3_icon_new_bg_2 { float:left; width:211px; height:42px; margin:0px 20px 0px -31px; background-image:url(../image/icon_4_2.png); }
+.corner3_icon_new_bg_3 { float:left; width:211px; height:42px; margin:0px 20px 0px -31px; background-image:url(../image/icon_4_3.png); }
+.corner3_icon_new_bg_4 { float:left; width:211px; height:42px; margin:0px 20px 0px -31px; background-image:url(../image/icon_4_4.png); }
+.corner3_icon_new_text { float:left; width:auto; margin:5px 0px 0px 50px; }
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+
+#comp_flexslide_control .flex-control-nav{
+text-align:left;
+}

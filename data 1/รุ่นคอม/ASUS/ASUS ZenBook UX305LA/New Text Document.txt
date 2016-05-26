@@ -1,0 +1,14 @@
+ProcessorCPUIntel Core i7-5500U (2.40 GHz, 4MB L3 Cache, up to 3.00 GHz)ChipsetMobile Intel Express ChipsetGraphic SystemGraphic CardIntel HD GraphicsDisplaySize13.3 inch (1920x1080) Full HDType IPS PanelTouch Screen
+Main MemoryMemory 8 GB DDR3L	(Upgrade   ) Hard Disk DriveHard Disk256 GB SSDOptical Disc DriveDriveNoWeb CameraDetailsHD WebcamPort & InterfaceUSB 2.0
+USB 3.03USB 3.1
+USB 3.1 Type C
+Display Port
+D-Sub/VGA
+Thunderbolt
+HDMI  (mini)
+Card Reader( SD/ SDXC)Express Slot
+Finger Print
+ConnectionWireless LanDual-band 802.11 a/g/n Bluetooth
+LAN
+SIM (3G)
+BatteryType9

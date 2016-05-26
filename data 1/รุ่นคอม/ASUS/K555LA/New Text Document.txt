@@ -1,0 +1,13 @@
+CPUIntel Core i3-5010U (2.1 GHz, 3 MB L3 Cache)ChipsetMobile Intel Express ChipsetGraphic SystemGraphic CardIntel HD Graphics 5500DisplaySize15.6 inch (1366x768) HDType Glare – ¨Í¡ÃÐ¨¡Touch Screen
+Main MemoryMemory 4 GB DDR3 Hard Disk DriveHard Disk1 TB 5400 RPMOptical Disc DriveDrive8.9 mm 8X Super Multi with Double LayerWeb CameraDetails VGA web camera Port & InterfaceUSB 2.01USB 3.02USB 3.1
+USB 3.1 Type C
+Display Port
+D-Sub/VGA
+Thunderbolt
+HDMI
+Card ReaderSDExpress Slot
+Finger Print
+ConnectionWireless Lan802.11bgnBluetooth
+LAN
+SIM (3G)
+BatteryType2-cell

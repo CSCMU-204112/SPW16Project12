@@ -1,0 +1,215 @@
+/* CSS Document */
+#bg_menu-2 { margin:0 auto 0; display:block; width:972px; }
+.menu-2 { float:left; width:992px; height:40px; margin:0px 0px 30px -10px; background-color:#f7f7f7; border-bottom:1px #ececec solid; border-top:1px #ececec solid;}
+
+.navigation1-2 { float:left; padding:4px 17px 0px 0px; border-right:1px #dbdbdb solid; height:20px; width: auto !important; text-align:center; margin:0px 17px 0px 0px;}
+.navigation1-3 { float:left; padding:4px 17px 0px 0px; width: auto !important; text-align:center; margin:0px 17px 0px 0px;}
+
+.navigation_pic-2 { float:left; width:19px; height:14px; background-image:url(../image/home_03.jpg); margin:0px 8px 0px 0px; }
+.navigation_pic2-2 { float:left; width:19px; height:14px; background-image:url(../image/home_05.jpg); margin:0px 8px 0px 0px; }
+
+.navigation_pic_arrow-2 { float:left; width:6px; height:5px; background-image:url(../image/home_08.jpg); margin:6px 0px 0px 5px; }
+
+.navigation_text-2 { float:left; width: auto; height:auto; color:#666666; text-align:center; margin:2px 0px 0px 0px;}
+
+.navigation_search-2 { float: right; border-left:1px #dbdbdb solid; height:30px; width:17px; padding:11px 18px 0px 20px; margin-top:-9px; }
+.navigation_search-2 a:hover { border-bottom:0px;}
+/* ------------------------------------------------------------------------- */
+#menu {
+	list-style:;
+	width: auto !important;
+	margin:8px auto 0px auto;
+	height: auto !important;
+	padding:0px 0px 0px 20px;
+
+}
+
+#menu li {
+	float:left;
+	display:block;
+	text-align:center;
+	position:relative;
+	padding:;
+	margin-right:;
+	margin-top:;
+	border:none;
+}
+
+#menu li:hover {
+	border-bottom:0px;
+	
+}
+
+#menu li a {
+	font-family: Tahoma, Geneva, sans-serif, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color: #333;
+	display:block;
+	outline:0;
+	text-decoration:none;
+	text-shadow:;
+	margin-bottom:4px;
+}
+
+#menu li:hover a:hover {
+	text-shadow: 1px 1px 1px #ffffff;
+	border-bottom:0px;
+	color:#fb8e25;
+}
+#menu li .drop {
+
+}
+#menu li:hover .drop {
+	
+}
+
+.dropdown_columns {
+
+            margin:0px auto;
+            float:left;
+            position:absolute;
+            /*left:-999em;*/ /* Hides the drop down */
+            text-align:left;
+            padding: 15px;
+            border: 3px solid #8F8F8F;
+            border-top:;
+            /*z-index: -1;*/
+            display:none;
+
+			/*opacity:0;*/
+ 
+            /* Gradient background */
+
+            background:#f1f1f1;
+	         background: -moz-linear-gradient(top, #F0F0F0, #F1F1F1);
+            background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#F0F0F0), to(#F1F1F1));
+
+            /* Rounded Corners */
+
+            -moz-border-radius:;
+            -webkit-border-radius:;
+            border-radius:;
+
+
+}
+
+/*#menu li:hover .dropdown_columns {*/
+.dropdown_columns.active{
+	left:-1px;
+	top:auto;
+
+	z-index:99;
+
+	/*opacity : 1;*/
+	display:block;
+	
+	transition-property : opacity; 
+	
+
+	-moz-transition: all 0.3s; 
+	-webkit-transition: all 0.3s; 
+	-o-transition: all 0.3s; 
+	transition: all 0.3s
+}
+.dropdown_columns a{
+	font-family: Tahoma, Geneva, sans-serif, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold; 
+	color: #333;
+	display:block;
+	outline:0;
+	text-decoration:none;
+	text-shadow:;
+	margin-bottom:4px;
+	border-bottom:none;
+}
+.dropdown_columns a:hover{
+color:#fb8e25;
+}
+/* ------------------------------------------------------------------------- */
+.col_1 {
+	float: left; width:660px;
+}
+.new_menu_box { float:left; width:200px; height: auto !important; padding:0px 0px 5px 0px;  margin:0px 0px 10px 0px;}
+
+.new_menu_sub_tipic { font-size:14px; font-weight: bold; float:left; width:200px; height: auto !important; color:#333; padding:0px 0px 0px 0px;  margin:0px 15px 0px 0px;}
+.new_menu_sub_tipic a{color:#fb8e25; font-size:14px !important; font-weight: bold; float:left; width:200px; height: auto !important; color:#333; text-decoration:none; border:none;}
+.new_menu_sub_pic { float:left; width:60px; height:60px; padding:0px 0px 0px 0px; background-color:#999; margin:0px 10px 0px 0px;}
+.new_menu_sub_text { float:left; width:130px; height: auto !important; padding:0px 0px 0px 0px;  margin:0px 0px 0px 0px;}
+.new_menu_sub_text2 { float:left; width:200px; height: auto !important; padding:0px 0px 0px 0px;  margin:0px 0px 0px 0px;}
+
+
+/* ------------------------------- */
+.col_2 {
+	float: left; width: auto;
+}
+/* ------------------------------- */
+.col_3 {
+	float: left; width: auto;
+}
+/* ------------------------------- */
+.col_4 {
+	float: left; width: auto;
+}
+/* ------------------------------- */
+.col_5 {
+	float: left; width: auto;
+}
+/* ------------------------------- */
+.col_6 {
+	float: left; width: auto;
+}
+
+.new_menu_list{ float:left;  margin: 7px 0px 0px 5px; }
+.text_new_menu_list{ width: 90px; float:left; margin: -10px 0px 0px 15px;}
+/* ------------------------------- */
+/* ------------------------------- */
+/* ------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+/* ------------------------------------------------------------------------- */
+.table_out2{
+	position:relative;
+}
+
+	@font-face{
+		font-family: rsu;
+		src: url('/web/wp-content/themes/nbsv2/css/RSU_Regular.ttf');
+	}
+
+	#show_graph_all{ font-family: rsu; }
+
+	#show_graph_all .border_out_side{ float: left; width: 700px; }
+	#show_graph_all .show_model_img{ float: left; width: 160px; padding: 5px; margin: 0px 10px 0px 0px; }
+	#show_graph_all .img_model{ float:left; width: 100%; height: auto; text-align: center; }
+	#show_graph_all .img_model img{ width: 150px; }
+	#show_graph_all .txt_model_graph{ float: left; width: 100%; font-size: 16px; font-weight: bold; text-align: center; color: #fff; }
+	#show_graph_all .show_score{ float: left; width: auto; padding: 0px 5px 0px 5px; }
+	#show_graph_all .group_score{ float: left; width: 310px; margin: 0px 0px 10px 0px; }
+	#show_graph_all .group_title{ float: left; font-weight: bold; font-size: 20px; color: #000; margin: 0px 0px -10px 0px; }
+	#show_graph_all .graph_score{ float: left; width: 300px; }
+	#show_graph_all .graph_score ul{ float: left; width: 290px; list-style-type: none; display: inline; margin: 5px 0px 0px 0px; }
+	#show_graph_all .graph_score ul li{ float: left; width: 29px; text-align:center; font-weight: bold; font-size: 15px; padding: 2px 0px 2px 0px; color: #ccc; }
+	#show_graph_all .border_in_side{ float:left; margin: 20px 0px 0px 30px; }
+	#show_graph_all .border_img{ float: left; margin: 0px 0px 10px 0px; }
+	#show_graph_all ul , li{ margin: 0; padding: 0}
