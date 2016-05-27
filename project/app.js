@@ -1,7 +1,6 @@
 const express = require('express');
 const morgan = require('morgan');
 const bodyParser = require('body-parser');
-var cons = require('consolidate');
 var port = 2000;
 var app = express();
 
@@ -12,9 +11,8 @@ app.use(bodyParser.urlencoded({
 }));
 
 
-app.engine('html', cons.swig);
 app.set('views','./app/views');
-app.set('view engine', 'html');
+app.set('view engine', 'pug');
 
 app.use(express.static('./public'));
 
