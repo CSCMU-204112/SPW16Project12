@@ -46,6 +46,37 @@ exports.toshiba = function(req, res) {
     res.render('toshiba');
 }
 
+exports.regis = function(req, res) {
+
+    db.any('select * from user_data;')
+    .then( function(data) {
+    // req.body.email
+    // req.body.password
+    // req.body.firstname
+    // req.body.lastname
+    // req.body.tel
+    // req.body.address
+
+     res.render('register');
+    })
+
+    .catch(function(error){
+        console.log(error);
+    });
+}
+
+exports.regis_insert = function(req, res) {
+    db.none('insert into user_data(email, password, firstname, lastname, tel, address) values($1, $2, $3, $4, $5, $6)', [req.body.email, req.body.password, req.body.firstname, req.body.lastname, req.body.tel, req.body.address])
+        .then(function(data){
+        res.redirect('/');
+        res.render('index');
+    })
+        .catch(function(error){
+        console.log(error);
+    });
+
+}
+
 
 exports.login = function(req,res) {
     db.any('select * from user_data where email=$1', [req.body.login_email])
@@ -54,13 +85,11 @@ exports.login = function(req,res) {
                 login = true;
                 user = data.firstname +' '+ data.lastname;
         } else {
-                confirm("Your e-mail or password isn't corrent!");
                 login = false;
         }
 
     })
     .catch (function(error) {
-            confirm("Your e-mail or password isn't corrent!");
             login = false;
     });
 }

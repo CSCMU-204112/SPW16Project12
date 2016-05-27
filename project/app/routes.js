@@ -15,8 +15,11 @@ module.exports = function(app){
     app.get('/sony', dataCtrl.sony);
     app.get('/toshiba', dataCtrl.toshiba);
 
-    app.post('/login', dataCtrl.login);
+    app.get('/login', dataCtrl.login);
 
-    app.route('/register');
+    app.route('/register')
+          .get(dataCtrl.regis)
+          .post(dataCtrl.regis_insert);
+          //.post(dataCtrl.showDataBeforeSend);
         
 }
