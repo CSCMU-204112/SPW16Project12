@@ -83,13 +83,23 @@ exports.login = function(req,res) {
     .then   ( function(data) {
         if (data[0].password == req.body.login_password) {
                 login = true;
-                user = data.firstname +' '+ data.lastname;
+                user = data[0].firstname +' '+ data[0].lastname;
+                console.log('success login');
+                res.redirect('/');
+                res.render('index');
         } else {
                 login = false;
+                console.log('wrong password');
+                res.redirect('/');
+                res.render('index');
         }
+
 
     })
     .catch (function(error) {
             login = false;
+            console.log('wrong email');
+            res.redirect('/');
+            res.render('index');
     });
 }
